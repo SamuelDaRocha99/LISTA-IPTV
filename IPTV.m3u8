@@ -148,7 +148,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_
 #EXTINF:-1 tvg-id="TV PANTANAL MS" tvg-name="TV PANTANAL MS " tvg-logo=" " group-title="TV ABERTA",TV PANTANAL MS
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RBA TV " tvg-name="RBA TV " tvg-logo="https://megacam.xyz/img/canais/webp/63aedf24ef747fb5dbf0fb6355cf0e4c.webp " group-title="TV ABERTA",RBA TV
+#EXTINF:-1 tvg-id="RBA TV " tvg-name="RBA TV " tvg-logo="https://megacam.xyz/img/canais/webp/63aedf24ef747fb5dbf0fb6355cf0e4c.webp " group-title="TV ABERTA",BAND 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://futebolplayhd.com/imagens-futebol/93cb68732da806c8532f8e24cd013f4d.jpg " group-title="TV ABERTA",GLOBO SP
@@ -165,3 +165,5 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 
 #EXTINF:-1 tvg-id="RBA TV  " tvg-name="RBA TV " tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv-300x84.png " group-title="TV ABERTA",RBA TV 
 https://streaming.gruporba.com.br/rba.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" "
