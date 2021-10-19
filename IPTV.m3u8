@@ -1,0 +1,167 @@
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Warner-Channel-1.jpg " group-title="VARIEDADES",Warner Channel
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central " tvg-name="Comedy Central " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Comedy-Central-1.jpg " group-title="VARIEDADES",Comedy Central
+https://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/history-channel-1.jpg " group-title="Documentário",History Channel
+https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8
+
+#EXTINF:-1 tvg-id="History 2 " tvg-name="History 2 " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/History-2-1.jpg " group-title="Documentário",History 2
+https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_2.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon " tvg-name="Nickelodeon " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Nickelodeon-1.jpg " group-title="DESENHOS",Nickelodeon
+https://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr. " tvg-name="Nick Jr " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Nick-Jr.-1.jpg " group-title="DESENHOS",Nick Jr
+https://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m3u8
+
+#EXTINF:-1 tvg-id="A&E Mundo " tvg-name="A&E Mundo " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/AE-Mundo-1.jpg " group-title="TV ABERTA",A&E Mundo
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
+
+#EXTINF:-1 tvg-id="GHOST TV " tvg-name="GHOST TV " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/ghost-tv.jpg " group-title="Documentário",GHOST TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1245723290.m3u8
+
+#EXTINF:-1 tvg-id="CHANNEL 1 " tvg-name="CHANNEL 1 " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/channel-1.png " group-title="TV ABERTA",CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w325256520.m3u8
+
+#EXTINF:-1 tvg-id="Gospel Cartoon " tvg-name="Gospel Cartoon " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/gospe-cartoon-1.jpg " group-title="DESENHOS",Gospel Cartoon 
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w696474322.m3u8
+
+#EXTINF:-1 tvg-id="TV CLUBE WEB " tvg-name="TV CLUBE WEB  " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/tv-clube-web.jpg " group-title="TV ABERTA",TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w641661077.m3u8
+
+#EXTINF:-1 tvg-id="TV CARIOCA NET" tvg-name="TV CARIOCA NET" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/tv-carioca.jpg " group-title="TV ABERTA",TV CARIOCA NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w909854453.m3u8
+
+#EXTINF:-1 tvg-id="CYNEMAX " tvg-name="CYNEMAX " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/cynemax.jpg " group-title="VARIEDADES",CYNEMAX
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1773293368.m3u8
+
+#EXTINF:-1 tvg-id="TV NOVA PLAY " tvg-name="TV NOVA PLAY " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/TV-NOVA-PLAY.jpg " group-title="TV ABERTA",TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1860040306.m3u8
+
+#EXTINF:-1 tvg-id="BAND " tvg-name="BAND " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/band-tv.jpg " group-title="TV ABERTA",BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w627099956.m3u8
+
+#EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg " group-title="TV ABERTA",Record SP
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="SBT " tvg-name="SBT " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-14.jpg " group-title="TV ABERTA",SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w701834315_b1000000.m3u8
+
+#EXTINF:-1 tvg-id="CINE LIVRE 2 " tvg-name="CINE LIVRE 2 " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/cine-livre-3-1.jpg " group-title="VARIEDADES",CINE LIVRE 2
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+
+#EXTINF:-1 tvg-id="CINE LIVRE 1 " tvg-name="CINE LIVRE 1 " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/cine-livre-1.jpg " group-title="VARIEDADES",CINE LIVRE 1
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w309823835.m3u8
+
+#EXTINF:-1 tvg-id="ANIME ZONE TV " tvg-name="ANIME ZONE TV " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/anime-zone-tv.jpg " group-title="DESENHOS",ANIME ZONE TV
+https://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TV MIX " tvg-name="TV MIX " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/fite-3-1.jpg " group-title="TV ABERTA",TV MIX
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
+
+#EXTINF:-1 tvg-id="SBT INTERIOR " tvg-name="SBT INTERIOR" tvg-logo="https://1.bp.blogspot.com/--W96F0JB52E/YTDxX1E_isI/AAAAAAAAFQQ/w2RsNhwgROkGqufD8ReLNYEq2S1I1iKtwCLcBGAsYHQ/s200/SBT.webp " group-title="TV ABERTA",SBT INTERIOR
+https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w1979642763.m3u8
+
+#EXTINF:-1 tvg-id="SBT PI " tvg-name="SBT PI " tvg-logo="https://1.bp.blogspot.com/-BKfI-bOVnLU/YMauM95S37I/AAAAAAAAE28/EnMb8zR4NaoLcp75HLEGmfDZwkCfvMfUACPcBGAYYCw/s200/SBT.png " group-title="TV ABERTA",SBT PI 
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
+
+#EXTINF:-1 tvg-id="SBT GO " tvg-name="SBT GO " tvg-logo="https://1.bp.blogspot.com/-BKfI-bOVnLU/YMauM95S37I/AAAAAAAAE28/EnMb8zR4NaoLcp75HLEGmfDZwkCfvMfUACPcBGAYYCw/s200/SBT.png " group-title="TV ABERTA",SBT GO - TV SERRA DOURADA
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323_b1000000.m3u8
+
+#EXTINF:-1 tvg-id="TV BAND PA" tvg-name="TV BAND PA " tvg-logo="https://1.bp.blogspot.com/-8WMTK1YKO8M/YTDut9kuv0I/AAAAAAAAFQI/tPhnPo5AysQHiA5kFzTdvxD8wBfvgnLSQCLcBGAsYHQ/s200/TV%2BBAND.webp " group-title="TV ABERTA",TV BAND PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
+
+#EXTINF:-1 tvg-id="REDE TV  " tvg-name="REDE TV " tvg-logo="https://1.bp.blogspot.com/-aSq0jApe0IU/YTDxxBx63bI/AAAAAAAAFQc/78iRXqQZMNwADB3ubWz5cD6bBuWA4Ky2gCLcBGAsYHQ/s200/REDE%2BTV%2521.webp " group-title="TV ABERTA",REDE TV ES
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
+
+#EXTINF:-1 tvg-id="REDE TV RS " tvg-name="REDE TV RS " tvg-logo="https://1.bp.blogspot.com/-kDR8AywYWQM/YRfx_wFMwSI/AAAAAAAAFGs/Jo9Uj_El5B8rVQ-JfGJCI2VN8WqSVUn9ACLcBGAsYHQ/s0/REDE%2BTV%2521.png " group-title="TV ABERTA",REDE TV RS 
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w18155526.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://verfutebol.tv/icons/sportv.png?v32 " group-title="ESPORTES",SporTV 
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://verfutebol.tv/icons/espn.png?v32 " group-title="ESPORTES",ESPN
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://verfutebol.tv/icons/ufc.png?v32 " group-title="ESPORTES",COMBATE 
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="Rádio Mandela" tvg-name="Rádio Mandela " tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f8fdc6f48a1d5ae5eb69443c64709bed.jpg " group-title="RÁDIOS", RADIO MANDELA DIGITAL
+https://ssl1.transmissaodigital.com:20079/live
+
+#EXTINF:-1 tvg-id="RADIO PESADAO " tvg-name="RADIO PESADAO " tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/c50d3b02f3c67680d8ea972a1343c341.png " group-title="RÁDIOS", RADIO PESADAO 
+https://ssl1.transmissaodigital.com:20079/live
+
+#EXTINF:-1 tvg-id="FUNK DAS ANTIGAS " tvg-name="FUNK DAS ANTIGAS "  tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/2b82e4e17473220b65b70b9244a58077.png " group-title="RÁDIOS",FUNK DAS ANTIGAS
+http://node-04.zeno.fm/1mkgdcn8fd0uv?rj-ttl=5&rj-tok=AAABfI5QbTAAVMorKuOIfYyoDw
+
+#EXTINF:-1 tvg-id="BH FM " tvg-name="BH FM "  tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1ec3c8c6ca1b63794af1644887454588.webp " group-title="RÁDIOS",BH FM
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+
+#EXTINF:-1 tvg-id="ENCANTO FM " tvg-name="ENCANTO FM "  tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/cfd767f74294b8ae9205e2e54515aaec.webp " group-title="RÁDIOS",ENCANTO FM
+http://streaming.veloturbo.com.br:8000/encanto.aac
+
+#EXTINF:-1 tvg-id="TROPICAL FM " tvg-name="TROPICAL FM "  tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/a45c83c063036d93a665ea6081154059.webp " group-title="RÁDIOS",TROPICAL FM
+https://r14.ciclano.io:15014/stream
+
+#EXTINF:-1 tvg-id="WEB FUNK 24H " tvg-name="WEB FUNK 24H "  tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/ba915a0aeba04cc93b0e35f81fcb94f0.jpg " group-title="RÁDIOS",WEB FUNK 24H 
+http://node-01.zeno.fm/u4p146m8hv8uv?rj-ttl=5&rj-tok=AAABfI5Zd-0AXwsq9b60Voki4A
+
+#EXTINF:-1 tvg-id="PLANETA DANCE " tvg-name="PLANETA DANCE "  tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1f825cff5a215497385515d894470894.png " group-title="RÁDIOS",PLANETA DANCE
+http://stm7.painelvox.com:8214//;stream.mp3
+
+#EXTINF:-1 tvg-id="FUNK & BATIDAO " tvg-name="FUNK & BATIDAO "  tvg-logo="https://br.radio.net/images/broadcasts/f1/15/127892/1/c300.png " group-title="RÁDIOS",FUNK & BATIDAO
+http://node-17.zeno.fm/wwdgk21qb2zuv?rj-ttl=5&rj-tok=AAABfI5lbtkAZGqJoTPWND1XAQ
+
+#EXTINF:-1 tvg-id="RADIO MEGAFUNK " tvg-name="RADIO MEGAFUNK "  tvg-logo="https://images-zeno-fm.cdn.ampproject.org/ii/AW/s/images.zeno.fm/aBviivhIrwlkphtiS4O8QkLSrC9nPgfHd5J3CvfU1W8/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3dzT3VUOEFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dzTnU0MUFvTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT01MDB4NTAw.webp " group-title="RÁDIOS",RADIO MEGAFUNK
+http://node-22.zeno.fm/r32w0b3s1p8uv?rj-ttl=5&rj-tok=AAABfI5qzxUA6cNHxToJxO2FDQ
+
+#EXTINF:-1 tvg-id="BOTECO SERTANEJO " tvg-name="BOTECO SERTANEJO "  tvg-logo="https://images.zeno.fm/Tydy2R6OZCSKvtod5LAUf66gysIGeb25sYkjagmSbEo/rs:fit:270:270/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2c1X3pycGdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ2dsOHlQcndzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNzB4Mjcw.webp " group-title="RÁDIOS",BOTECO SERTANEJO 
+http://node-29.zeno.fm/6kumndewqbruv?rj-ttl=5&rj-tok=AAABfI5v0y8AF4bdqghSdTh_yQ
+
+#EXTINF:-1 tvg-id="RETRO CARTOON " tvg-name="RETRO CARTOON "  tvg-logo="https://1.bp.blogspot.com/-Tk_nDgzno00/YRfsL2aXRlI/AAAAAAAAFGU/d7a448ZFXb0I-HVIFa5OZFCVtry2hZ2ZwCLcBGAsYHQ/s0/RETR%25C3%2594%2BCARTOON.png " group-title="DESENHOS",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="TV ARACATI " tvg-name="TV ARACATI "  tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/gloobinho.png " group-title="TV ABERTA",TV ARACATI
+https://livefocamundo.com:8081/tvaracati/index.m3u8
+
+#EXTINF:-1 tvg-id="RECORD NEWS " tvg-name="RECORD NEWS "  tvg-logo="https://1.bp.blogspot.com/-yvQ-qCcETsc/YTDyzBliSSI/AAAAAAAAFQw/tsaY7VTuYboP98S49dVfK2LYLkos0MH5QCLcBGAsYHQ/s200/RECORD%2BNEWS.webp" group-title="TV ABERTA",RECORD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV NOVA GAZETA " tvg-name="TV NOVA GAZETA"  tvg-logo="https://1.bp.blogspot.com/-sWF10FnV4Sw/YA8SZOkSGxI/AAAAAAAAENI/KDTEg1biVP4YScw6tJ5h8oJaqX-7AYWCACLcBGAsYHQ/s0/NOVA%2BGAZETA%2BTV.png " group-title="TV ABERTA",TV NOVA GAZETA
+https://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV METRÓPOLE " tvg-name="TV METRÓPOLE "  tvg-logo="https://3.bp.blogspot.com/-qZtCcf1Mrio/XR5IuOu9bSI/AAAAAAAABS8/NS1TgWJjkHwr5ho55q3cFgdP_o1qmFvLQCLcBGAs/s320/Screenshot_2019-07-04-15-38-25.png " group-title="TV ABERTA",TV METRÓPOLE 
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="TV APARECIDA " tvg-name="TV APARECIDA "  tvg-logo="https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/s320/Screenshot_2019-06-21-14-00-01.png " group-title="CANAIS RELIGIOSOS",TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV PAI ETERNO " tvg-name="TV PAI ETERNO"  tvg-logo="https://4.bp.blogspot.com/-OSle1HHVGkQ/XU37Y7_OFGI/AAAAAAAABak/GOwP-ahqQYcmD5AiBxaxMWhRTlyRXyg2QCPcBGAYYCw/s320/Screenshot_2019-08-09-19-59-48.png " group-title="CANAIS RELIGIOSOS",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w609427385.m3u8
+
+#EXTINF:-1 tvg-id="A FAZENDA" tvg-name="A FAZENDA " tvg-logo="https://futebolplayhd.com/imagens-futebol/49940fed567e546f5e00bb3e69d8437c.jpeg " group-title="A FAZENDA 24H",A FAZENDA 13 24H
+https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="TV PANTANAL MS" tvg-name="TV PANTANAL MS " tvg-logo=" " group-title="TV ABERTA",TV PANTANAL MS
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RBA TV " tvg-name="RBA TV " tvg-logo="https://megacam.xyz/img/canais/webp/63aedf24ef747fb5dbf0fb6355cf0e4c.webp " group-title="TV ABERTA",RBA TV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://futebolplayhd.com/imagens-futebol/93cb68732da806c8532f8e24cd013f4d.jpg " group-title="TV ABERTA",GLOBO SP
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GAÚCHA ZH" tvg-name="GAÚCHAZH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_Ga%C3%BAchaZH.png " group-title="RÁDIOS",GAÚCHA ZH
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANOS 80 " tvg-name="ANOS 80 " tvg-logo="https://www.radio80fm.com.br/wp-content/uploads/2020/07/logo-horizontal-504-120px.png " group-title="RÁDIOS",ANOS 80
+https://centova.euroti.com.br:20001/1/stream.mp3?1634570749489
+
+#EXTINF:-1 tvg-id="PREMIERE " tvg-name="PREMIERE " tvg-logo="https://verfutebol.tv/icons/premierefc.png?v32 " group-title="ESPORTES",PREMIERE
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="RBA TV  " tvg-name="RBA TV " tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv-300x84.png " group-title="TV ABERTA",RBA TV 
+https://streaming.gruporba.com.br/rba.m3u8
