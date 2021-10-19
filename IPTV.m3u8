@@ -166,4 +166,5 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 #EXTINF:-1 tvg-id="RBA TV  " tvg-name="RBA TV " tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv-300x84.png " group-title="TV ABERTA",RBA TV 
 https://streaming.gruporba.com.br/rba.m3u8
 
-#EXTINF:-1 tvg-id="VILLA MIX " tvg-name="VILLA MIX " tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8gvh2z62anhq.png " group-title="RÁDIOS",VILLA MIX 
+#EXTINF:-1 tvg-id="GERAÇÃO FUNK" tvg-name="GERAÇÃO FUNK" tvg-logo="https://img.radios.com.br/radio/lg/radio39899_1570735863.png " group-title="RÁDIOS",GERAÇÃO FUNK
+https://servidor.geracaoradios.com/radio/8040/stream
