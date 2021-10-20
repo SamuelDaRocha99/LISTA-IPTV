@@ -169,9 +169,6 @@ https://s1.pandafiles.com:183/d/7m3z7do426kwoyapi6floooxmtm6m6urye3wwch6isxdfo2r
 #EXTINF:-1 tvg-id="O ASSASSINO AMERICANO " tvg-name="O ASSASSINO AMERICANO" tvg-logo="https://image.tmdb.org/t/p/w300/yApYYf92j8OgCQyMQNTFbxRrTbU.jpg " group-title="FILMES 2021", O ASSASSINO AMERICANO 
 https://s1.pandafiles.com:183/d/7m35ldw426kwoyapi6fkon6dowqd6vmhnoh2h4bm53v4gys6kxv4e3jelfmt7pr525fnozfr/video.mp4
 
-#EXTINF-1 tvg-id="DUPLA EXPLOSIVA 2" tvg-name="DUPLA EXPLOSIVA 2" tvg-logo="https://image.tmdb.org/t/p/w185/eXjqdCBFg4zjUnc1MbL55hlQmm0.jpg " group-title="FILMES 2021",DUPLA EXPLOSIVA 2
-https://edgemedia.r.worldssl.net/filmes/522931/dub.mp4
-
 EXTINF:-1 tvg-id="O FIO INVISÍVEL" tvg-name="O FIO INVISÍVEL" tvg-logo="https://image.tmdb.org/t/p/w300/88SjBbphHV55U6r4MpgEuGFdBLV.jpg " group-title="FILMES 2021",O FIO INVISÍVEL
 https://s11.pandafiles.com:183/d/7i3xzfg426kwoyapi2foo6wioffz2u2cx5v4nuunahbcu2b23x2vglyna3wqp3gerlbepvaz/video.mp4
 
@@ -195,3 +192,5 @@ https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1300968176.m3u8
 #EXTINF:-1 tvg-id="TNT SPORT" tvg-name="TNT SPORT " tvg-logo="https://1.bp.blogspot.com/-nuBjndFluZs/YTyftxb2pnI/AAAAAAAAPh0/pkQYMt5ta7cvO6lkCU11bOMqJZKpD-vEwCLcBGAsYHQ/s200/OIP%2B%252812%2529.jpg " group-title="ESPORTES",TNT SPORT
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-id="DUPLA EXPLOSIVA2" tvg-name="DUPLA EXPLOSIVA2" tvg-logo="https://image.tmdb.org/t/p/w185/eXjqdCBFg4zjUnc1MbL55hlQmm0.jpg " group-title="FILMES 2021";DUPLA EXPLOSIVA 2
+https://s1.pandafiles.com:183/d/7m35ldw426kwoyapi6fkon6dowqd6vmhnoh2h4bm53v4gys6kxv4e3jelfmt7pr525fnozfr/video.mp4
