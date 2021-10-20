@@ -139,7 +139,7 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist-4
 #EXTINF:-1 tvg-id="A FAZENDA" tvg-name="A FAZENDA " tvg-logo="https://futebolplayhd.com/imagens-futebol/49940fed567e546f5e00bb3e69d8437c.jpeg " group-title="A FAZENDA 24H",A FAZENDA 13 24H
 https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
 
-#EXTINF:-1 tvg-id="TV PANTANAL MS" tvg-name="TV PANTANAL MS " tvg-logo=" " group-title="TV ABERTA",TV PANTANAL MS
+#EXTINF:-1 tvg-id="TV PANTANAL MS" tvg-name="TV PANTANAL MS " tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Logotipo_TV_Pantanal.png " group-title="TV ABERTA",TV PANTANAL MS
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RBA TV " tvg-name="RBA TV " tvg-logo="https://megacam.xyz/img/canais/webp/63aedf24ef747fb5dbf0fb6355cf0e4c.webp " group-title="TV ABERTA",BAND 
