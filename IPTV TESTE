@@ -189,3 +189,6 @@ https://s7.pandafiles.com:183/d/6e3tpo6426kwoyapigfluo6doojszytlxm6cykoimqw3i34f
 
 #EXTINF:-1 tvg-id="CINE FLIX " tvg-name="CINE FLIX " tvg-logo="https://1.bp.blogspot.com/-COY8N_WcmAY/YVTXGsn2VTI/AAAAAAAAP10/xQjnb2QWKP8bfbHGoxGl1SYs9rz9_MYNACLcBGAsYHQ/w200-h105/transferir-8.png " group-title="FILMES AO VIVO",CINE FLIX
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
+
+#EXTINF:-1 tvg-id="FILMES ONLINE " tvg-name="FILMES ONLINE " tvg-logo="https://1.bp.blogspot.com/-B9LKd-fcIY4/YUCfSQttL7I/AAAAAAAAPlI/qfEYnLslMTIUI5elukKC5zpzphbu3b3ggCLcBGAsYHQ/w200-h200/images.png " group-title="FILMES AO VIVO",FILMES ONLINE
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1852637545.m3u8
