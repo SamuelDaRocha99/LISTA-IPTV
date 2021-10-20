@@ -136,12 +136,6 @@ https://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8
 #EXTINF:-1 tvg-id="TV METRÓPOLE " tvg-name="TV METRÓPOLE "  tvg-logo="https://3.bp.blogspot.com/-qZtCcf1Mrio/XR5IuOu9bSI/AAAAAAAABS8/NS1TgWJjkHwr5ho55q3cFgdP_o1qmFvLQCLcBGAs/s320/Screenshot_2019-07-04-15-38-25.png " group-title="TV ABERTA",TV METRÓPOLE 
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="TV APARECIDA " tvg-name="TV APARECIDA "  tvg-logo="https://4.bp.blogspot.com/-yVHrZ_3z5EM/XQ0N2n2tivI/AAAAAAAABK4/kRHjokzReKQKI8USh2gY7r1tJvWvYyhfwCPcBGAYYCw/s320/Screenshot_2019-06-21-14-00-01.png " group-title="CANAIS RELIGIOSOS",TV APARECIDA
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV PAI ETERNO " tvg-name="TV PAI ETERNO"  tvg-logo="https://4.bp.blogspot.com/-OSle1HHVGkQ/XU37Y7_OFGI/AAAAAAAABak/GOwP-ahqQYcmD5AiBxaxMWhRTlyRXyg2QCPcBGAYYCw/s320/Screenshot_2019-08-09-19-59-48.png " group-title="CANAIS RELIGIOSOS",TV PAI ETERNO
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w609427385.m3u8
-
 #EXTINF:-1 tvg-id="A FAZENDA" tvg-name="A FAZENDA " tvg-logo="https://futebolplayhd.com/imagens-futebol/49940fed567e546f5e00bb3e69d8437c.jpeg " group-title="A FAZENDA 24H",A FAZENDA 13 24H
 https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
 
@@ -175,8 +169,8 @@ https://s1.pandafiles.com:183/d/7m3z7do426kwoyapi6floooxmtm6m6urye3wwch6isxdfo2r
 #EXTINF:-1 tvg-id="O ASSASSINO AMERICANO " tvg-name="O ASSASSINO AMERICANO" tvg-logo="https://image.tmdb.org/t/p/w300/yApYYf92j8OgCQyMQNTFbxRrTbU.jpg " group-title="FILMES 2021", O ASSASSINO AMERICANO 
 https://s1.pandafiles.com:183/d/7m35ldw426kwoyapi6fkon6dowqd6vmhnoh2h4bm53v4gys6kxv4e3jelfmt7pr525fnozfr/video.mp4
 
-#EXTINF-1 tvg-id="SOBREVIVENDO AO JOGO" tvg-name="SOBREVIVENDO AO JOGO" tvg-logo="https://image.tmdb.org/t/p/w300/xF1uc2pEf34X2G41wvZaF5H0V7C.jpg " group-title="FILMES 2021",SOBREVIVENDO AO JOGO 
-https://s8.pandafiles.com:183/d/6a32daw426kwoyapi6flyy4jgmyojnqhjjly2kjk3gdwm6wiwh2exhhkodcvufobebm474zy/video.mp4
+#EXTINF-1 tvg-id="DUPLA EXPLOSIVA 2" tvg-name="DUPLA EXPLOSIVA 2" tvg-logo="https://image.tmdb.org/t/p/w185/eXjqdCBFg4zjUnc1MbL55hlQmm0.jpg " group-title="FILMES 2021",DUPLA EXPLOSIVA 2
+https://edgemedia.r.worldssl.net/filmes/522931/dub.mp4
 
 EXTINF:-1 tvg-id="O FIO INVISÍVEL" tvg-name="O FIO INVISÍVEL" tvg-logo="https://image.tmdb.org/t/p/w300/88SjBbphHV55U6r4MpgEuGFdBLV.jpg " group-title="FILMES 2021",O FIO INVISÍVEL
 https://s11.pandafiles.com:183/d/7i3xzfg426kwoyapi2foo6wioffz2u2cx5v4nuunahbcu2b23x2vglyna3wqp3gerlbepvaz/video.mp4
@@ -184,7 +178,7 @@ https://s11.pandafiles.com:183/d/7i3xzfg426kwoyapi2foo6wioffz2u2cx5v4nuunahbcu2b
 #EXTINF:-1 tvg-id="BRIGTH: ALMA DE SAMURAI" tvg-name="BRIGTH: ALMA DE SAMURAI" tvg-logo="https://image.tmdb.org/t/p/w300/3TWRvY9XkDiFFcr72n0vs0oc0Vg.jpg  " group-title="FILMES 2021",BRIGTH: ALMA DE SAMURAI
 https://s11.pandafiles.com:183/d/7i3ttfw426kwoyapi2foezgbgggqmqvqr5zxexco5xoc4euhrlxdwo4ygwpsabdkiuy6xofe/video.mp4
 
-#EXTINF:-1 tvg-id="POKEMON, O FILME SEGREDOS DA SELVA " tvg-name="POKEMON, O FILME SEGREDOS DA SELVA" tvg-logo="https://image.tmdb.org/t/p/w300/ir3cxdjrJJ1r127hCeGneBYe3fS.jpg " group-title="FILMES 2021",POKEMON, O FILME SEGREDOS DA SELVA
+#EXTINF:-1 tvg-id="POKEMON O FILME; SEGREDOS DA SELVA " tvg-name="POKEMON, O FILME SEGREDOS DA SELVA" tvg-logo="https://image.tmdb.org/t/p/w300/ir3cxdjrJJ1r127hCeGneBYe3fS.jpg " group-title="FILMES 2021",POKEMON, O FILME SEGREDOS DA SELVA
 https://s7.pandafiles.com:183/d/6e3tpo6426kwoyapigfluo6doojszytlxm6cykoimqw3i34fjxgcwfihlygasqc4lploow5e/video.mp4
 
 #EXTINF:-1 tvg-id="CINE FLIX " tvg-name="CINE FLIX " tvg-logo="https://1.bp.blogspot.com/-COY8N_WcmAY/YVTXGsn2VTI/AAAAAAAAP10/xQjnb2QWKP8bfbHGoxGl1SYs9rz9_MYNACLcBGAsYHQ/w200-h105/transferir-8.png " group-title="FILMES AO VIVO",CINE FLIX
@@ -192,3 +186,12 @@ https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730
 
 #EXTINF:-1 tvg-id="FILMES ONLINE " tvg-name="FILMES ONLINE " tvg-logo="https://1.bp.blogspot.com/-B9LKd-fcIY4/YUCfSQttL7I/AAAAAAAAPlI/qfEYnLslMTIUI5elukKC5zpzphbu3b3ggCLcBGAsYHQ/w200-h200/images.png " group-title="FILMES AO VIVO",FILMES ONLINE
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1852637545.m3u8
+
+
+#EXTINF:-1 tvg-id="FILMES LANÇAMENTOS 2021" tvg-name="FILMES LANÇAMENTOS 2021" tvg-logo="https://1.bp.blogspot.com/-ffFLvSX5-2M/X-UTXXqLQXI/AAAAAAAAMjY/ylCXYZQ3NsUQxkb1DMeasDx3fSq3MobkACLcBGAsYHQ/w680/download%2B%252810%2529.jpg " group-title="FILMES AO VIVO",FILMES LANÇAMENTOS 2021
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1300968176.m3u8
+
+
+#EXTINF:-1 tvg-id="TNT SPORT" tvg-name="TNT SPORT " tvg-logo="https://1.bp.blogspot.com/-nuBjndFluZs/YTyftxb2pnI/AAAAAAAAPh0/pkQYMt5ta7cvO6lkCU11bOMqJZKpD-vEwCLcBGAsYHQ/s200/OIP%2B%252812%2529.jpg " group-title="ESPORTES",TNT SPORT
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
