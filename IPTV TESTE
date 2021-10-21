@@ -88,9 +88,6 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://verfutebol.tv/icons/ufc.png?v32 " group-title="ESPORTES",COMBATE 
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 
-#EXTINF:-1 tvg-id="Rádio Mandela" tvg-name="Rádio Mandela " tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f8fdc6f48a1d5ae5eb69443c64709bed.jpg " group-title="RÁDIOS", RADIO MANDELA DIGITAL
-https://ssl1.transmissaodigital.com:20079/live
-
 #EXTINF:-1 tvg-id="RADIO PESADAO " tvg-name="RADIO PESADAO " tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/c50d3b02f3c67680d8ea972a1343c341.png " group-title="RÁDIOS", RADIO PESADAO 
 https://ssl1.transmissaodigital.com:20079/live
 
@@ -124,7 +121,7 @@ http://node-29.zeno.fm/6kumndewqbruv?rj-ttl=5&rj-tok=AAABfI5v0y8AF4bdqghSdTh_yQ
 #EXTINF:-1 tvg-id="RETRO CARTOON " tvg-name="RETRO CARTOON "  tvg-logo="https://1.bp.blogspot.com/-Tk_nDgzno00/YRfsL2aXRlI/AAAAAAAAFGU/d7a448ZFXb0I-HVIFa5OZFCVtry2hZ2ZwCLcBGAsYHQ/s0/RETR%25C3%2594%2BCARTOON.png " group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="TV ARACATI " tvg-name="TV ARACATI "  tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/gloobinho.png " group-title="CANAIS ABERTOS",TV ARACATI
+#EXTINF:-1 tvg-id="TV ARACATI " tvg-name="TV ARACATI "  tvg-logo="https://3.bp.blogspot.com/-eXchZx_nEGo/VtSeURcIo1I/AAAAAAAAFOI/jSPWDVZrwv8/s1600/LOGO%2BTV-0.png " group-title="CANAIS ABERTOS",TV ARACATI
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 
 #EXTINF:-1 tvg-id="RECORD NEWS " tvg-name="RECORD NEWS "  tvg-logo="https://1.bp.blogspot.com/-yvQ-qCcETsc/YTDyzBliSSI/AAAAAAAAFQw/tsaY7VTuYboP98S49dVfK2LYLkos0MH5QCLcBGAsYHQ/s200/RECORD%2BNEWS.webp" group-title="CANAIS ABERTOS",RECORD NEWS
