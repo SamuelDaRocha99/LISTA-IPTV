@@ -194,14 +194,6 @@ http://live.redtraffic.xyz/latina.m3u8
 #EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png " group-title="CANAIS ADULTOS",PORNSTAR
 http://live.redtraffic.xyz/pornstar.m3u8
 
-#EXTINF:-1 tvg-id="SBT RJ " tvg-name="SBT RJ " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logotipo_do_SBT_Rio.png " group-title="CANAIS ABERTOS",SBT RJ
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?EDSONSOUSALIST
-
-#EXTINF:-1 tvg-id="SBT PE HD " tvg-name="SBT PE HD " tvg-logo=" " group-title="CANAIS ABERTOS",SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?EDSONSOUSALIST
-
-#EXTINF:-1 tvg-id="SBT RECIFE HD " tvg-name="SBT RECIFE HD " tvg-logo="https://logospng.org/wp-content/uploads/sbt.png " group-title="CANAIS ABERTOS",SBT RECIFE HD
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2019809400_b216000_sleng.m3u8
 
 
 
