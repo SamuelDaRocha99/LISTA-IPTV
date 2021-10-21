@@ -194,6 +194,6 @@ http://live.redtraffic.xyz/latina.m3u8
 #EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png " group-title="CANAIS ADULTOS",PORNSTAR
 http://live.redtraffic.xyz/pornstar.m3u8
 
-#EXTINF:-1 tvg-id="REDE VIDA " tvg-name="REDE VIDA " tvg-logo="https://lh3.googleusercontent.com/proxy/oVGO9n9rqQDs6h66PSbPmwbHvD6tLUyKqyBY8lZWy-qftVFFiF5sabOrmQ8_LOPP9mSJ7y-oqD4IPCO-vff5QwKCEUGBSUJlhhZfWYQ9NhKi-pt0DjB27A " group-title"CANAIS ABERTOS",REDE VIDA
+#EXTINF:-1 tvg-id="REDE VIDA " tvg-name="REDE VIDA " tvg-logo="https://lh3.googleusercontent.com/proxy/oVGO9n9rqQDs6h66PSbPmwbHvD6tLUyKqyBY8lZWy-qftVFFiF5sabOrmQ8_LOPP9mSJ7y-oqD4IPCO-vff5QwKCEUGBSUJlhhZfWYQ9NhKi-pt0DjB27A " group-title",CANAIS ABERTOS",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
