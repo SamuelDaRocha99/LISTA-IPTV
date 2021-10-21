@@ -124,7 +124,7 @@ http://node-29.zeno.fm/6kumndewqbruv?rj-ttl=5&rj-tok=AAABfI5v0y8AF4bdqghSdTh_yQ
 #EXTINF:-1 tvg-id="RETRO CARTOON " tvg-name="RETRO CARTOON "  tvg-logo="https://1.bp.blogspot.com/-Tk_nDgzno00/YRfsL2aXRlI/AAAAAAAAFGU/d7a448ZFXb0I-HVIFa5OZFCVtry2hZ2ZwCLcBGAsYHQ/s0/RETR%25C3%2594%2BCARTOON.png " group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="TV ARACATI " tvg-name="TV ARACATI "  tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/gloobinho.png " group-title="TV ABERTA",TV ARACATI
+#EXTINF:-1 tvg-id="TV ARACATI " tvg-name="TV ARACATI "  tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/gloobinho.png " group-title="CANAIS ABERTOS",TV ARACATI
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 
 #EXTINF:-1 tvg-id="RECORD NEWS " tvg-name="RECORD NEWS "  tvg-logo="https://1.bp.blogspot.com/-yvQ-qCcETsc/YTDyzBliSSI/AAAAAAAAFQw/tsaY7VTuYboP98S49dVfK2LYLkos0MH5QCLcBGAsYHQ/s200/RECORD%2BNEWS.webp" group-title="CANAIS ABERTOS",RECORD NEWS
@@ -138,9 +138,6 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist-4
 
 #EXTINF:-1 tvg-id="A FAZENDA" tvg-name="A FAZENDA " tvg-logo="https://futebolplayhd.com/imagens-futebol/49940fed567e546f5e00bb3e69d8437c.jpeg " group-title="A FAZENDA 24H",A FAZENDA 13 24H
 https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
-
-#EXTINF:-1 tvg-id="TV PANTANAL MS" tvg-name="TV PANTANAL MS " tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Logotipo_TV_Pantanal.png " group-title="CANAIS ABERTOS",TV PANTANAL MS
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RBA TV " tvg-name="RBA TV " tvg-logo="https://megacam.xyz/img/canais/webp/63aedf24ef747fb5dbf0fb6355cf0e4c.webp " group-title="CANAIS ABERTOS",BAND 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
@@ -157,19 +154,14 @@ https://centova.euroti.com.br:20001/1/stream.mp3?1634570749489
 #EXTINF:-1 tvg-id="PREMIERE " tvg-name="PREMIERE " tvg-logo="https://verfutebol.tv/icons/premierefc.png?v32 " group-title="ESPORTES",PREMIERE
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
-#EXTINF:-1 tvg-id="RBA TV  " tvg-name="RBA TV " tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo_rbatv-300x84.png " group-title="CANAIS ABERTOS",RBA TV 
-https://streaming.gruporba.com.br/rba.m3u8
-
 #EXTINF:-1 tvg-id="GERAÇÃO FUNK" tvg-name="GERAÇÃO FUNK" tvg-logo="https://img.radios.com.br/radio/lg/radio39899_1570735863.png " group-title="RÁDIOS",GERAÇÃO FUNK
 https://servidor.geracaoradios.com/radio/8040/stream
-
 
 #EXTINF:-1 tvg-id="CINE FLIX " tvg-name="CINE FLIX " tvg-logo="https://1.bp.blogspot.com/-COY8N_WcmAY/YVTXGsn2VTI/AAAAAAAAP10/xQjnb2QWKP8bfbHGoxGl1SYs9rz9_MYNACLcBGAsYHQ/w200-h105/transferir-8.png " group-title="FILMES AO VIVO",CINE FLIX
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
 
 #EXTINF:-1 tvg-id="FILMES ONLINE " tvg-name="FILMES ONLINE " tvg-logo="https://1.bp.blogspot.com/-B9LKd-fcIY4/YUCfSQttL7I/AAAAAAAAPlI/qfEYnLslMTIUI5elukKC5zpzphbu3b3ggCLcBGAsYHQ/w200-h200/images.png " group-title="FILMES AO VIVO",FILMES ONLINE
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1852637545.m3u8
-
 
 #EXTINF:-1 tvg-id="FILMES LANÇAMENTOS 2021" tvg-name="FILMES LANÇAMENTOS 2021" tvg-logo="https://1.bp.blogspot.com/-ffFLvSX5-2M/X-UTXXqLQXI/AAAAAAAAMjY/ylCXYZQ3NsUQxkb1DMeasDx3fSq3MobkACLcBGAsYHQ/w680/download%2B%252810%2529.jpg " group-title="FILMES AO VIVO",FILMES LANÇAMENTOS 2021
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1300968176.m3u8
