@@ -376,4 +376,249 @@ http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png " group-title="CANAIS ABERTOS",TV RECORD RIO DE JANEIRO
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="CANAIS ABERTOS",
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL 25
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL VIDA
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CATVE
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FURG TV
+http://stream.furg.br:80/hls/furgtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", INFOR BAHIA WEB TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA ERA TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA TV FRIBURGO
+http://ssh101.com:80/m3u8/dyn/ntv14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA TV VALE
+http://stmv2.euroti.com.br:1935/tvvale/tvvale/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PORTAL NEWS WEB TV
+http://stmv3.euroti.com.br:1935/portalnews/portalnews/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE BRASIL DE COMUNICAÇÃO
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE GOSPEL
+http://media.igospel.com.br:1935/live/redegospel/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE MÃO AMIGA
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE RCT
+http://tv01.logicahost.com.br:1935/rederct/rederct/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE RVC
+http://flash1.crossdigital.com.br:1935/ponto82/redervc/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SOBRENATURAL TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SUMMER TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV ASSEMBLEIA CEARÁ
+http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CALDEIRÃO
+http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CAPITAL 777
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CAXIAS
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CINEC
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DAS ARTES
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIÁRIO DO SERTÃO
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV É-PARANÁ
+http://200.189.113.201:80/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FÁTIMA PARATIBE
+http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV GUARAPARI
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV INTERLAGOS
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV JORNAL CARUARU
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV KID MAIS
+http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MUNDIAL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVN BRASIL
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV SOL
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV VERDE VALE
+http://ssh101.com:80/m3u8/dyn/13verdevalelive13/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV VITÓRIA
+http://tvvitoria.viacast.tv:80/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24 HORAS", BEN 10 24HS
+http://sv1.casaplayer.com.br:8080/deusdete/123456/57705
+
+#EXTINF:-1 tvg-logo="http://iptvclub.com.br/iptvhd-capas/boomerang2.jpg" group-title="INFANTIS", BOOMERANG 4K
+http://sv1.casaplayer.com.br:8080/deusdete/123456/3318
+
+#EXTINF:-1 tvg-logo="http://iptvclub.com.br/iptvhd-capas/boomerang2.jpg" group-title="INFANTIS", BOOMERANG HD
+http://sv1.casaplayer.com.br:8080/deusdete/123456/3437
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XX + 18 XX", BRASILEIRINHAS (STUDIO)
+http://sv1.casaplayer.com.br:8080/deusdete/123456/56507
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24 HORAS", Breaking Bad 24hs
+http://sv1.casaplayer.com.br:8080/deusdete/123456/57715
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cancaonova.png" group-title="RELIGIOSOS", CANÇÃO NOVA HD
+http://sv1.casaplayer.com.br:8080/deusdete/123456/6439
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cancaonova.png" group-title="RELIGIOSOS", CANÇÃO NOVA SD
+http://sv1.casaplayer.com.br:8080/deusdete/123456/57730
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS", CARTOON NETWORK 4K
+http://sv1.casaplayer.com.br:8080/deusdete/123456/3319
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS", CARTOON NETWORK HD
+http://sv1.casaplayer.com.br:8080/deusdete/123456/3694
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="INFANTIS", CARTOON NETWORK SD
+http://sv1.casaplayer.com.br:8080/deusdete/123456/3695
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24 HORAS", Caverna do Dragão 24HS
+http://sv1.casaplayer.com.br:8080/deusdete/123456/57737
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24 HORAS", CHAVES DESENHO 24HS
+http://sv1.casaplayer.com.br:8080/deusdete/123456/57740
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA", CINE PIPOCA 01
+http://sv1.casaplayer.com.br:8080/deusdete/123456/57743
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA", Cine Pipoca 2
+http://sv1.casaplayer.com.br:8080/deusdete/123456/19383
+
+#EXTINF:-1 tvg-logo="floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA", Cine Pipoca 3
+http://sv1.casaplayer.com.br:8080/deusdete/123456/19384
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA", Cine Pipoca 4
+http://sv1.casaplayer.com.br:8080/deusdete/123456/23760
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA", Cine Pipoca 5
+http://sv1.casaplayer.com.br:8080/deusdete/123456/19386
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cinepipoca.jpg" group-title="CINE PIPOCA", Cine Pipoca 6
+http://sv1.casaplayer.com.br:8080/deusdete/123456/19387
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES", CINEMAX 4K
+http://sv1.casaplayer.com.br:8080/deusdete/123456/3320
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/CINEMAX.png" group-title="FILMES E SERIES", CINEMAX HD
+http://sv1.casaplayer.com.br:8080/deusdete/123456/3692
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS", CNN Brasil 4K
+http://sv1.casaplayer.com.br:8080/deusdete/123456/52074
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS", CNN Brasil HD
+http://sv1.casaplayer.com.br:8080/deusdete/123456/11247
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cnn.jpg" group-title="NOTICIAS", CNN Brasil SD
+http://sv1.casaplayer.com.br:8080/deusdete/123456/11246
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cnn-international-hd_m.png" group-title="NOTICIAS", CNN Internacional
+http://sv1.casaplayer.com.br:8080/deusdete/123456/57754
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE", COMBATE
+http://sv1.casaplayer.com.br:8080/deusdete/123456/3688
+
+#EXTINF:-1 tvg-logo="http://floriu.com/imagem/combate.png" group-title="ESPORTE", COMBATE 4K
+http://sv1.casaplayer.com.br:8080/deusdete/123456/3321
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL VIDA
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CATVE
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FURG TV
+http://stream.furg.br:80/hls/furgtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", INFOR BAHIA WEB TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA ERA TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA TV FRIBURGO
+http://ssh101.com:80/m3u8/dyn/ntv14/index.m3u8
+
