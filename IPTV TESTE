@@ -81,15 +81,6 @@ https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5
 #EXTINF:-1 tvg-id="REDE TV RS " tvg-name="REDE TV RS " tvg-logo="https://1.bp.blogspot.com/-kDR8AywYWQM/YRfx_wFMwSI/AAAAAAAAFGs/Jo9Uj_El5B8rVQ-JfGJCI2VN8WqSVUn9ACLcBGAsYHQ/s0/REDE%2BTV%2521.png " group-title="CANAIS ABERTOS",REDE TV RS 
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w18155526.m3u8
 
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV" tvg-logo="https://verfutebol.tv/icons/sportv.png?v32 " group-title="ESPORTES",SporTV 
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://verfutebol.tv/icons/espn.png?v32 " group-title="ESPORTES",ESPN
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
-
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://verfutebol.tv/icons/ufc.png?v32 " group-title="ESPORTES",COMBATE 
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
-
 #EXTINF:-1 tvg-id="RADIO PESADAO " tvg-name="RADIO PESADAO " tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/c50d3b02f3c67680d8ea972a1343c341.png " group-title="RÁDIOS", RADIO PESADAO 
 https://ssl1.transmissaodigital.com:20079/live
 
@@ -150,9 +141,6 @@ https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ANOS 80 " tvg-name="ANOS 80 " tvg-logo="https://www.radio80fm.com.br/wp-content/uploads/2020/07/logo-horizontal-504-120px.png " group-title="RÁDIOS",ANOS 80
 https://centova.euroti.com.br:20001/1/stream.mp3?1634570749489
 
-#EXTINF:-1 tvg-id="PREMIERE " tvg-name="PREMIERE " tvg-logo="https://verfutebol.tv/icons/premierefc.png?v32 " group-title="ESPORTES",PREMIERE
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-
 #EXTINF:-1 tvg-id="GERAÇÃO FUNK" tvg-name="GERAÇÃO FUNK" tvg-logo="https://img.radios.com.br/radio/lg/radio39899_1570735863.png " group-title="RÁDIOS",GERAÇÃO FUNK
 https://servidor.geracaoradios.com/radio/8040/stream
 
@@ -164,7 +152,6 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1852637545.m3u
 
 #EXTINF:-1 tvg-id="FILMES LANÇAMENTOS 2021" tvg-name="FILMES LANÇAMENTOS 2021" tvg-logo="https://1.bp.blogspot.com/-ffFLvSX5-2M/X-UTXXqLQXI/AAAAAAAAMjY/ylCXYZQ3NsUQxkb1DMeasDx3fSq3MobkACLcBGAsYHQ/w680/download%2B%252810%2529.jpg " group-title="FILMES AO VIVO",FILMES LANÇAMENTOS 2021
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1300968176.m3u8
-
 
 #EXTINF:-1 tvg-id="TNT SPORT" tvg-name="TNT SPORT " tvg-logo="https://1.bp.blogspot.com/-nuBjndFluZs/YTyftxb2pnI/AAAAAAAAPh0/pkQYMt5ta7cvO6lkCU11bOMqJZKpD-vEwCLcBGAsYHQ/s200/OIP%2B%252812%2529.jpg " group-title="ESPORTES",TNT SPORT
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
@@ -534,12 +521,6 @@ http://sv1.casaplayer.com.br:8080/deusdete/123456/56507
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DESENHOS 24H", Breaking Bad 24hs
 http://sv1.casaplayer.com.br:8080/deusdete/123456/57715
-
-#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cancaonova.png" group-title="RELIGIOSOS", CANÇÃO NOVA HD
-http://sv1.casaplayer.com.br:8080/deusdete/123456/6439
-
-#EXTINF:-1 tvg-logo="http://floriu.com/imagem/cancaonova.png" group-title="RELIGIOSOS", CANÇÃO NOVA SD
-http://sv1.casaplayer.com.br:8080/deusdete/123456/57730
 
 #EXTINF:-1 tvg-logo="http://floriu.com/imagem/cartoonetwork.png" group-title="DESENHOS", CARTOON NETWORK 4K
 http://sv1.casaplayer.com.br:8080/deusdete/123456/3319
