@@ -603,3 +603,14 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS ABERTOS", NOVA TV FRIBURGO
 http://ssh101.com:80/m3u8/dyn/ntv14/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="CANAIS ADULTOS", Jasmin HD 
+http://109.71.162.112:1935/live/sd.jasminchannel
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="CANAIS ADULTOS", Visit-X 
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="CANAIS ADULTOS",CANAIS ADULTOS
+http://cdn.videos.pornopizza.it/media/videos/5/5/6/e/d/556edfc7a2f1a.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/lhm-xxx.png" group-title="CANAIS ADULTOS",CANAIS ADULTOS
+http://cdn.videos.pornopizza.it/media/videos/5/8/3/b/d/583bd6df828bb.mp4?LHMTv
