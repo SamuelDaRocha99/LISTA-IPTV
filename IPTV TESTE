@@ -126,8 +126,8 @@ https://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8
 #EXTINF:-1 tvg-id="TV METRÓPOLE " tvg-name="TV METRÓPOLE "  tvg-logo="https://3.bp.blogspot.com/-qZtCcf1Mrio/XR5IuOu9bSI/AAAAAAAABS8/NS1TgWJjkHwr5ho55q3cFgdP_o1qmFvLQCLcBGAs/s320/Screenshot_2019-07-04-15-38-25.png " group-title="CANAIS ABERTOS",TV METRÓPOLE 
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="RBA TV " tvg-name="RBA TV " tvg-logo="https://megacam.xyz/img/canais/webp/63aedf24ef747fb5dbf0fb6355cf0e4c.webp " group-title="CANAIS ABERTOS",BAND 
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" group-title="RÁDIOS",JOVEM PAN FM
+https://24233.live.streamtheworld.com:443/JP_SP_FMAAC.aac
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://futebolplayhd.com/imagens-futebol/93cb68732da806c8532f8e24cd013f4d.jpg " group-title="CANAIS ABERTOS",GLOBO SP
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
@@ -315,7 +315,7 @@ http://allfinegirls.org/LucyLi_ThisIsTheWayToGo_960x540_30fps_19-22mins.mp4?_=1
 #EXTINF: 1 tvg-logo = "https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title = "CANAIS ADULTOS" pltv-subgroup = "CANAIS ADULTOS", PORNO 45
 http://www.pinkrod.com/get_file/1/d141244e797fe16d41c66d253bd027b5/6000/6804/6804.mp4/
  
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",PORNSTAR
+#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
 http://bit.ly/2hWwY6R
 
 #EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
@@ -361,11 +361,7 @@ http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS ABERTOS",TV RECORD RIO DE JANEIRO
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gmkfreelogos.com/logos/C/img/canal25.gif" group-title="CANAIS ABERTOS", CANAL 25
-http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-
 http://cdn.videos.pornopizza.it/media/videos/5/8/3/b/d/583bda544d090.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS", Visit-X 
