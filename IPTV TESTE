@@ -1,7 +1,5 @@
 #EXTM3U
 
-######CANAIS ABERTOS#######
-
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Warner-Channel-1.jpg " group-title="VARIEDADES",Warner Channel
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
 
@@ -244,3 +242,14 @@ https://static.loboclick.com/v/thor/thos01.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg " group-title="CANAIS ADULTOS",CANAIS ADULTOS 
 https://cdn.xvideoson.com/cdn/videos/mobile/4508.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hcP2XDNrzUdvy4kohGgNkjbSdqW.jpg" group-title="ANIMAÇÃO/INFANTIL",OS VILÕES DA DISNEY
+https://hyperion.feralhosting.com/seriesbm/filmes/Os.Viloes.da.Disney.2003.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fIKaabvE40T39nOIngcZPcPJeYe.jpg" group-title="ANIMAÇÃO/INFANTIL",CARROS 2 (2011)
+https://hyperion.feralhosting.com/seriesbm/filmes/Carros.2.2011.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg" group-title="ANIMAÇÃO/INFANTIL",CARROS (2006)
+https://hyperion.feralhosting.com/seriesbm/filmes/Carros.2006.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lVPFdORefTKXKFiSktrXbiFDNAK.jpg " group-title="ANIMAÇÃO/INFANTIL",CARROS 3 (2017)
+https://hyperion.feralhosting.com/seriesbm/filmes/Carros.3.2017.mp4
