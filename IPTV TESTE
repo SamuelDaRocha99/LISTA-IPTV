@@ -298,3 +298,6 @@ http://cdn.bgp20.xyz/Jose264/386w7k84/140950
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.4dad53d8ce8787d55899426200adf96d?rik=T6iBJpsnU7gQFA&pid=ImgRaw&r=0" group-title="Documentário",DISCOVERY HOME & HEALTH
 http://127.0.0.1:17644/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.bbc4b92f8f02e2623f30433178d97f58?rik=tSqcad6DKDZEFw&riu=http%3a%2f%2fimages.mi.tv%2fchannels%2fbr_telecine-premium-1_m.png&ehk=7hhsPRIlbabFYsADqKSLwzfmJtRYH5shkD%2bBw2JHnAY%3d&risl=&pid=ImgRaw&r=0" group-title="CANAIS/TELECIN",TELECINE PREMIUM
+http://127.0.0.1:19544/25los10echo.xyz/SD_TC_PREMIUM/2021/11/19/04/24/45-03003.ts?token=b19640a79aed05c12cfe0481cf00b60a0e29bb406c38fc90ad9b685b29db9862.1637295885298.3e2373cda2814fcc9589037ffabaa415
