@@ -255,5 +255,17 @@ http://tv.minhalista.me/movie/GCE37Sqp6/factoryiptv/79546.mp4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d5afada322b83a7b60c500d801e9e947?rik=3J23pD9E%2fI39Ug&pid=ImgRaw&r=0" group-title="ANIMAÇÃO/INFANTIL",CASA MONSTRO
 http://tv.minhalista.me/movie/GCE37Sqp6/factoryiptv/76325.mp4
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS PLUTO TV",PLUTO TV - NICK CLASSICO
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.59d0a3645fb621ea24117e0bd7287b33?rik=OgokR1qon%2bShWA&pid=ImgRaw&r=0" group-title="CANAIS PLUTO TV",PLUTO TV - NICK CLASSICO
 http://lb.kstream.org/aovivo/HD_PLUTO_NICK_CLASSICO/video.m3u8?token=3e2373cda2814fcc9589037ffabaa415
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.59d0a3645fb621ea24117e0bd7287b33?rik=OgokR1qon%2bShWA&pid=ImgRaw&r=0" group-title="CANAIS PLUTO TV",PLUTO TV - PARAMOUNT+
+http://20eua10alpha.cf/HD_PLUTO_PARAMOUNT_MAIS/video.m3u8?token=c802eda6a8c8650d395043e948a00a8c5968df46049310f2c3d3189c19f33d6e.1637337703621.3e2373cda2814fcc9589037ffabaa415
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.59d0a3645fb621ea24117e0bd7287b33?rik=OgokR1qon%2bShWA&pid=ImgRaw&r=0" group-title="CANAIS PLUTO TV",PLUTO TV - CINE CLASSICOS
+http://20ash10x-ray.xyz/HD_PLUTO_CINE_CLASSICOS/video.m3u8?token=e542e70cd2ccdd83d150ab28d930bca4efb96a3d78d6c5f058c835557f3ed2d9.1637338018485.3e2373cda2814fcc9589037ffabaa415
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.59d0a3645fb621ea24117e0bd7287b33?rik=OgokR1qon%2bShWA&pid=ImgRaw&r=0" group-title="CANAIS PLUTO TV",PLUTO TV - REINO INFANTIL
+http://b20eua10hotel.cf/HD_PLUTO_REINO_INFANTIL/video.m3u8?token=dac88298da0e929aa046c1c9bfaddc7973ccba7673a80a4b0be5a8e991f4a66e.1637338344297.3e2373cda2814fcc9589037ffabaa415
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.59d0a3645fb621ea24117e0bd7287b33?rik=OgokR1qon%2bShWA&pid=ImgRaw&r=0" group-title="CANAIS PLUTO TV",PLUTO TV - CINE SUCESSOS
+http://siloh-aka.plutotv.net/e266cf_Polar/clip/604b921cb2b870001a05f536_Silver_Linings_Playbook_BR/720p/20210312_120903/hls/4396665-4952086/hls_1000-00076.ts
