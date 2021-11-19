@@ -267,5 +267,18 @@ http://20ash10x-ray.xyz/HD_PLUTO_CINE_CLASSICOS/video.m3u8?token=e542e70cd2ccdd8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.59d0a3645fb621ea24117e0bd7287b33?rik=OgokR1qon%2bShWA&pid=ImgRaw&r=0" group-title="CANAIS PLUTO TV",PLUTO TV - REINO INFANTIL
 http://b20eua10hotel.cf/HD_PLUTO_REINO_INFANTIL/video.m3u8?token=dac88298da0e929aa046c1c9bfaddc7973ccba7673a80a4b0be5a8e991f4a66e.1637338344297.3e2373cda2814fcc9589037ffabaa415
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.59d0a3645fb621ea24117e0bd7287b33?rik=OgokR1qon%2bShWA&pid=ImgRaw&r=0" group-title="CANAIS PLUTO TV",PLUTO TV - CINE SUCESSOS
-http://siloh-aka.plutotv.net/e266cf_Polar/clip/604b921cb2b870001a05f536_Silver_Linings_Playbook_BR/720p/20210312_120903/hls/4396665-4952086/hls_1000-00076.ts
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.5xTX6vFOz6IEICAFBf8eSwHaHa?pid=ImgDet&rs=1" group-title="ANIMAÇÃO/INFANTIL",SCOOBY DOO 1
+http://3serverswvn.vendedoraction.com/COMEDIA/26399.mp4
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.5xTX6vFOz6IEICAFBf8eSwHaHa?pid=ImgDet&rs=1" group-title="ANIMAÇÃO/INFANTIL",SCOOBY DOO 2
+http://3serverswvn.vendedoraction.com/COMEDIA/26400.mp4
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.5xTX6vFOz6IEICAFBf8eSwHaHa?pid=ImgDet&rs=1" group-title="ANIMAÇÃO/INFANTIL",SCOOBY DOO 3 - O MISTERIO COMEÇA
+http://3serverswvn.vendedoraction.com/COMEDIA/26401.mp4
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.5xTX6vFOz6IEICAFBf8eSwHaHa?pid=ImgDet&rs=1" group-title="ANIMAÇÃO/INFANTIL",SCOOBY DOO 4 - E A MALDIÇÃO DO MONSTRO DO LAGO
+http://3serverswvn.vendedoraction.com/COMEDIA/26402.mp4
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.B8VrqOVN-WS_9pvpHqrsGQHaE6?pid=ImgDet&w=709&h=471&rs=1" group-title="DESENHOS",CARTOON NETWORK HD
+http://127.0.0.1:28922/output.m3u8
+
