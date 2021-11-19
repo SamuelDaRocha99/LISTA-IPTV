@@ -275,5 +275,5 @@ https://hyperion.feralhosting.com/seriesbm/filmes/Shrek.Terceiro.2007.mp4
 #EXTINF:-1 tvg-logo="https://static.netcine.io/wp-content/uploads/2021/11/olnWkuNwCDHPYTkLKktUnFLyHFg-1.jpg" group-title="ANIMAÇÃO/INFANTIL",O PODEROSO CHEFINHO 2
 https://vod.netcine.io/storage.bunnycdn.com/html/content/conteudolb4/filmes2021/OPODEROSOCHEFINHO2DUB-BAIXO.mp4?md5=5uCai-_ckOWvJhsvoUsRtQ&expires=1637291145
 
-#EXTINF:-1 tvg-logo="https://superfilmesonline.pro/wp-content/uploads/2021/11/O-Ultimo-Cruzeiro-2021-214x300.jpg " group-title="DOCUMENTÁRIO",O ÚLTIMO CRUZEIRO 
-https://h6r4gr.cfeucdn.com/silverlight/secip/148169/eUHYt1jD3YRU5XMtZo4b5Q/MTc3Ljg1LjIyNy4xOTk=/1637301047/hls-vod-s04/flv/api/files/videos/2021/11/17/16371320128j7tw.mp4
+#EXTINF:-1 tvg-logo=" " group-title="CANAIS|VARIEDADES",MULTISHOW
+http://127.0.0.1:3806/output.m3u8
