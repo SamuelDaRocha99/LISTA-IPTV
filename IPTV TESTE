@@ -251,3 +251,9 @@ http://212.102.60.200/movie/GCE37Sqp6/factoryiptv/79492.mp4?token=ShVfUkRYFgJBXQ
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.25206337c9bddd0acfd3b288dda2728c?rik=p%2ft30ARVHJDT1w&pid=ImgRaw&r=0" group-title="ANIMAÇÃO/INFANTIL",A BAILARINA
 http://tv.minhalista.me/movie/GCE37Sqp6/factoryiptv/79546.mp4
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d5afada322b83a7b60c500d801e9e947?rik=3J23pD9E%2fI39Ug&pid=ImgRaw&r=0" group-title="ANIMAÇÃO/INFANTIL",CASA MONSTRO
+http://tv.minhalista.me/movie/GCE37Sqp6/factoryiptv/76325.mp4
+
+#EXTINF:-1 tvg-logo=" " group-title="CANAIS PLUTO TV",PLUTO TV - NICK JUNIOR CLUB
+http://127.0.0.1:24603/output.m3u8
