@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Warner-Channel-1.jpg " group-title="VARIEDADES",Warner Channel
-https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
-
 #EXTINF:-1 tvg-id="Comedy Central " tvg-name="Comedy Central " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Comedy-Central-1.jpg " group-title="VARIEDADES",Comedy Central
 https://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8
 
@@ -21,14 +18,8 @@ https://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m
 #EXTINF:-1 tvg-id="A&E Mundo " tvg-name="A&E Mundo " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/AE-Mundo-1.jpg " group-title="CANAIS ABERTOS",A&E Mundo
 https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
 
-#EXTINF:-1 tvg-id="CHANNEL 1 " tvg-name="CHANNEL 1 " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/channel-1.png " group-title="CANAIS ABERTOS",CHANNEL 1
-https://stmv1.srvif.com/channel1/channel1/chunklist_w325256520.m3u8
-
 #EXTINF:-1 tvg-id="Gospel Cartoon " tvg-name="Gospel Cartoon " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/gospe-cartoon-1.jpg " group-title="DESENHOS",Gospel Cartoon 
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w696474322.m3u8
-
-#EXTINF:-1 tvg-id="CYNEMAX " tvg-name="CYNEMAX " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/cynemax.jpg " group-title="VARIEDADES",CYNEMAX
-https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1773293368.m3u8
 
 #EXTINF:-1 tvg-id="BAND " tvg-name="BAND " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/band-tv.jpg " group-title="CANAIS ABERTOS",BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w627099956.m3u8
@@ -38,15 +29,6 @@ http://127.0.0.1:9219/playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.
 
 #EXTINF:-1 tvg-id="SBT " tvg-name="SBT " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-14.jpg " group-title="CANAIS ABERTOS",SBT
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w701834315_b1000000.m3u8
-
-#EXTINF:-1 tvg-id="CINE LIVRE 2 " tvg-name="CINE LIVRE 2 " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/cine-livre-3-1.jpg " group-title="VARIEDADES",CINE LIVRE 2
-https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
-
-#EXTINF:-1 tvg-id="CINE LIVRE 1 " tvg-name="CINE LIVRE 1 " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/cine-livre-1.jpg " group-title="VARIEDADES",CINE LIVRE 1
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w309823835.m3u8
-
-#EXTINF:-1 tvg-id="ANIME ZONE TV " tvg-name="ANIME ZONE TV " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/anime-zone-tv.jpg " group-title="DESENHOS",ANIME ZONE TV
-https://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TV MIX " tvg-name="TV MIX " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/fite-3-1.jpg " group-title="CANAIS ABERTOS",TV MIX
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
@@ -72,17 +54,11 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1
 #EXTINF:-1 tvg-id="RETRO CARTOON " tvg-name="RETRO CARTOON "  tvg-logo="https://1.bp.blogspot.com/-Tk_nDgzno00/YRfsL2aXRlI/AAAAAAAAFGU/d7a448ZFXb0I-HVIFa5OZFCVtry2hZ2ZwCLcBGAsYHQ/s0/RETR%25C3%2594%2BCARTOON.png " group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="TV ARACATI " tvg-name="TV ARACATI "  tvg-logo="https://3.bp.blogspot.com/-eXchZx_nEGo/VtSeURcIo1I/AAAAAAAAFOI/jSPWDVZrwv8/s1600/LOGO%2BTV-0.png " group-title="CANAIS ABERTOS",TV ARACATI
-https://livefocamundo.com:8081/tvaracati/index.m3u8
-
 #EXTINF:-1 tvg-id="RECORD NEWS " tvg-name="RECORD NEWS "  tvg-logo="https://1.bp.blogspot.com/-yvQ-qCcETsc/YTDyzBliSSI/AAAAAAAAFQw/tsaY7VTuYboP98S49dVfK2LYLkos0MH5QCLcBGAsYHQ/s200/RECORD%2BNEWS.webp" group-title="CANAIS ABERTOS",RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV NOVA GAZETA " tvg-name="TV NOVA GAZETA"  tvg-logo="https://1.bp.blogspot.com/-sWF10FnV4Sw/YA8SZOkSGxI/AAAAAAAAENI/KDTEg1biVP4YScw6tJ5h8oJaqX-7AYWCACLcBGAsYHQ/s0/NOVA%2BGAZETA%2BTV.png " group-title="CANAIS ABERTOS",TV NOVA GAZETA
 https://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV METRÓPOLE " tvg-name="TV METRÓPOLE "  tvg-logo="https://3.bp.blogspot.com/-qZtCcf1Mrio/XR5IuOu9bSI/AAAAAAAABS8/NS1TgWJjkHwr5ho55q3cFgdP_o1qmFvLQCLcBGAs/s320/Screenshot_2019-07-04-15-38-25.png " group-title="CANAIS ABERTOS",TV METRÓPOLE 
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-id="ANOS 80 " tvg-name="ANOS 80 " tvg-logo="https://www.radio80fm.com.br/wp-content/uploads/2020/07/logo-horizontal-504-120px.png " group-title="RÁDIOS",ANOS 80
 https://centova.euroti.com.br:20001/1/stream.mp3?1634570749489
@@ -105,68 +81,11 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="XXX BIG TITIS " tvg-name="XXX BIG TITIS " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png " group-title="CANAIS ADULTOS",XXX BIG TITIS
 http://live.redtraffic.xyz/bigtits.m3u8
 
-#EXTINF:-1 tvg-id="XXX BLOWJOB " tvg-name="XXX BLOWJOB " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png " group-title="CANAIS ADULTOS",BLOWJOB
-http://live.redtraffic.xyz/blowjob.m3u8
-
-#EXTINF:-1 tvg-id="XXX CUCKOLD " tvg-name="XXX CUCKOLD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png " group-title="CANAIS ADULTOS",CUCKOLD
-http://live.redtraffic.xyz/cuckold.m3u8
-
-#EXTINF:-1 tvg-id="XXX HARDCORE " tvg-name="XXX HARDCORE " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png " group-title="CANAIS ADULTOS",HARDCORE
-http://live.redtraffic.xyz/hardcore.m3u8
-
-#EXTINF:-1 tvg-id="XXX INTERRACIAL " tvg-name="XXX INTERRACIAL " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png " group-title="CANAIS ADULTOS",INTERRACIAL
-http://live.redtraffic.xyz/interracial.m3u8
-
-#EXTINF:-1 tvg-id="XXX LATINA " tvg-name="XXX LATINA " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png " group-title="CANAIS ADULTOS",LATINA
-http://live.redtraffic.xyz/latina.m3u8
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png " group-title="CANAIS ADULTOS",PORNSTAR
-http://live.redtraffic.xyz/pornstar.m3u8
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2hWwY6R
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2vtXpVV
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2Mf63hh
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2Mf63hh
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2wFZwET
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="CANAIS ADULTOS " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2uCRn2l
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="CANAIS ADULTOS " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2vuPh7J
-
 #EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
 http://bit.ly/2wUp28z
 
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2wUNKpq
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2vyP8P2
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2hWxba9
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2wUwlx9
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",GANG BANG
-http://cdn.adultiptv.net/blonde.m3u8
-
 #EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",BLONDE
 http://cdn.adultiptv.net/blonde.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS ABERTOS",TV RECORD RIO DE JANEIRO
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
 http://cdn.videos.pornopizza.it/media/videos/5/8/3/b/d/583bda544d090.mp4?LHMTv
@@ -297,12 +216,14 @@ http://3serverswvn.vendedoraction.com/FANTASIA/7984.mp4
 #EXTINF:-1 tvg-logo="https://www.moztudo.com/wp-content/uploads/2021/10/exercito-de-ladroes-invasao-da-europa-2021-torrent-dublado-e-dual-audio-5-1-download-21493-poster-202x300.jpg" group-title="FILMES",EXÉRCITO DE LADRÕES :INVASÃO DA EUROPA 2021
 http://91.149.224.178/movie/Jose264/386w7k84/183704.mp4?token=SRUMWUVaQV8SAQBUB1lUVVIDXA0NAwxRUwIMUgNRUQ1XVAUJBwNbBgNGHRJBTBAEB1pnXVBEDwEOUg9UABtATUFSFmdfVkFfElcABAAIWkNKFUxdWQMXCgdXC1MAA1sJCgFIGkZbB0cKRgIFBBpOQwNPTFFGCFRcaQVdEl1UBxoIFUYUFF0NOlQBXFFcXEBbRAcaGBYPRkAUW1YRWFtOGlBeEEpXRgZHCkYDAAcKQE1EVFdBWhJHSRRbGiZmFU4aV08QXVhBCgpeRgsSX0hWQ0oVUUdrFFBDQhNdBVlSEBoIFVQaGhAOBEg7Ul9cVgcCEl5XWkdEDxIHQxRGWVgMUUZYFmdGWwdHCgpEXF5F
 
-#EXTINF:-1 tvg-logo="https://cultura.minha.com.br/wp-content/uploads/sites/4/2021/11/alerta-vermelho-1.jpg"  group-title="FILMES",ALERTA VERMELHO 2021
-http:///movie/Jose264/386w7k84/163010.mp4?token=SRUMWUVaQV8SAQZSA10HUFFSCwYDVVBWUgQOAgdVAwhQBwYLUgMHXQFGHRJBTBAEB1pnXVBEDwEAUghVBBtATUFSFmdfVkFfElcABAAIWkNKFUxdWQMXCgdXC1MAA1sMBAFIGkZbB0cKRgQHCw1ATURSQEBRFFtRWj5cAUJeAV0QDUYaGhAMC28AVF1TVgZDXBUIFhhEXENGQwIKQVsOFBBVDUxEUxcAEl4TAQUBVENKFVtbQQhBQk9DAkZ2ZUAUEFIcTFNcEAxfChMKEFUSVUQbGl1HOUdVRRVKAVVaB0oQDUYIFB5BCFEcblNdVgwEBUNRW1oVFwoUUBpIFloNVltDC0ppQgoBEl5fRV5UHw==
-
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.iU9KYZtT80KaiY8gnOSSOAHaDw?pid=ImgDet&rs=1" group-title="FILMES",VINGANÇA & CASTIGO 2021
 http://89.187.179.236/movie/GCE37Sqp6/factoryiptv/83568.mp4?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQ5QAQJdTUAWElRFaFpTEg4aVlUFAQcWThZHWVUBRw5SAFADAFBRVlRQHRVHWlMSDhpbUAQNDxZOFlZITAEXWgJaPFBREwgBBkMLFRUfFV9aZwcBX1lZUEAOEQAaSEddEEZBDloQDQ5PQ1NeQ0FWRFEaWUYADgcEQBgRU1cRC0ART0EOFiczQE9DVE9DVllDXVcNRggaWkRWFh8SURc6RgZFF0ZRBAwHEUMLFQcRGxJZWRs7UVdZWgdXR1lXChYWWRRSFhhHDA0NCEVYRWxHWVAaWQpHVFtJ
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.UKOfw15ilxRBIN1gCs--GwHaKx?pid=ImgDet&rs=1" group-title="FILMES",REFÉM DO JOGO
 http://91.149.224.178/movie/Jose264/386w7k84/2720.mp4?token=SRUMWUVaQV8SAFNVVAEBVwdUCAABVwFRA1FcBQdUA14BVVFeBlNSBgRGHRJBTBAEB1pnXVBEDwIBUwhIFkIRXUBoDVwUCEFWAVADAAoaTkMSXlVRFlwEBgVWDFAMD1cJHhUUUVIQWUcBVAEABBpOQwNPTFFGCFRcaQVdEl1UBxoIFUYUFF0NOlQBXFFcXEBbRAcaGBYPRkAUW1YRWFtOGlBeEEpXRgZHCkYCAQABQE1EVFdBWhJHSRRbGiZmFU4aV08QXVhBCgpeRgsSX0hWQ0oVUUdrFFBDQhNdBVlSEBoIFVQaGhAOBEg7Ul9cVgcCEl5XWkdEDxIHQxRGWVgMUUZYFmdGWwdHCgpEXF5F
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaPFvD8wQ9ikSAb-WJiQtF-RthevnDBRD0tHICf2IcwuRhZZMy" group-title="FILMES",RAMBO - PROGRAMADO PARA MATAR
+http:///ACAO/10760.mp4
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/9BgIHgVYA95iLK3Qy3zgCOYp9f0=/e.glbimg.com/og/ed/f/original/2020/02/12/sonic1.jpg" group-title="FILMES",SONIC: O FILME
+http:///movie/opwdg1apay/jg5z5vspbx/170842.mp4?token=SRdaWUZaQAxAVQdSBwJQC1VUAgFXVA8AV1IAUAACBlcHBQdbBVZRBgFDSkREQERdA1ppCwcUAghUUw0HVE8UR0FQQGdcVkAMQFNTVg8DBRpOFUILDlMaA1JVBgRSVQEGCwMeGkVbBhRYQ1dQAgEPGk4VUxoXU0pXAg9qVwMVX1FXFwgaFx5AWQw+AgNaVVhcQA0UUkEaGlAQExcJCBZaXh4XUFFBQANCB0NcRAYCAAxAGxQBDENWTREaFwlEIWQQHhdXQEFXDEULDghEDRZbSFYVGkAKRWdLBhBBQQMCW1dAFwgaBRBOFA8AHjlUW1hWB1RCCwxYSxtZQQQRSkFbXVxcRldHbRJfBkNcCEJYWkU=
