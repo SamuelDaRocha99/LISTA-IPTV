@@ -6,59 +6,53 @@ https://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m
 #EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/history-channel-1.jpg " group-title="Documentário",History Channel
 https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8
 
-#EXTINF:-1 tvg-id="History 2 " tvg-name="History 2 " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/History-2-1.jpg " group-title="Documentário",History 2
+#EXTINF:-1 tvg-id="History 2 " tvg-name="History 2" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/History-2-1.jpg " group-title="Documentário",History 2
 https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_2.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon " tvg-name="Nickelodeon " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Nickelodeon-1.jpg " group-title="DESENHOS",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon " tvg-name="Nickelodeon" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Nickelodeon-1.jpg " group-title="DESENHOS",Nickelodeon
 https://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr. " tvg-name="Nick Jr " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Nick-Jr.-1.jpg " group-title="DESENHOS",Nick Jr
 https://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m3u8
 
-#EXTINF:-1 tvg-id="A&E Mundo " tvg-name="A&E Mundo " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/AE-Mundo-1.jpg " group-title="CANAIS ABERTOS",A&E Mundo
+#EXTINF:-1 tvg-id="A&E Mundo " tvg-name="A&E Mundo " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/AE-Mundo-1.jpg " group-title="VARIEDADES",A&E
 https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
 
 #EXTINF:-1 tvg-id="Gospel Cartoon " tvg-name="Gospel Cartoon " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/gospe-cartoon-1.jpg " group-title="DESENHOS",Gospel Cartoon 
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w696474322.m3u8
 
-#EXTINF:-1 tvg-id="BAND " tvg-name="BAND " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/band-tv.jpg " group-title="CANAIS ABERTOS",BAND
+#EXTINF:-1 tvg-id="BAND " tvg-name="BAND " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/band-tv.jpg " group-title="CANAIS - ABERTOS",BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w627099956.m3u8
 
-#EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg " group-title="CANAIS ABERTOS",Record RJ
+#EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg " group-title="CANAIS - ABERTOS",Record RJ
 http://127.0.0.1:9219/playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="SBT " tvg-name="SBT " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-14.jpg " group-title="CANAIS ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT " tvg-name="SBT " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-14.jpg " group-title="CANAIS - ABERTOS",SBT
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w701834315_b1000000.m3u8
 
-#EXTINF:-1 tvg-id="TV MIX " tvg-name="TV MIX " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/fite-3-1.jpg " group-title="CANAIS ABERTOS",TV MIX
-https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
-
-#EXTINF:-1 tvg-id="SBT INTERIOR " tvg-name="SBT INTERIOR" tvg-logo="https://1.bp.blogspot.com/--W96F0JB52E/YTDxX1E_isI/AAAAAAAAFQQ/w2RsNhwgROkGqufD8ReLNYEq2S1I1iKtwCLcBGAsYHQ/s200/SBT.webp " group-title="CANAIS ABERTOS",SBT INTERIOR
+#EXTINF:-1 tvg-id="SBT INTERIOR " tvg-name="SBT INTERIOR" tvg-logo="https://1.bp.blogspot.com/--W96F0JB52E/YTDxX1E_isI/AAAAAAAAFQQ/w2RsNhwgROkGqufD8ReLNYEq2S1I1iKtwCLcBGAsYHQ/s200/SBT.webp " group-title="CANAIS - ABERTOS",SBT INTERIOR
 https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w1979642763.m3u8
 
-#EXTINF:-1 tvg-id="SBT PI " tvg-name="SBT PI " tvg-logo="https://1.bp.blogspot.com/-BKfI-bOVnLU/YMauM95S37I/AAAAAAAAE28/EnMb8zR4NaoLcp75HLEGmfDZwkCfvMfUACPcBGAYYCw/s200/SBT.png " group-title="CANAIS ABERTOS",SBT PI 
+#EXTINF:-1 tvg-id="SBT PI " tvg-name="SBT PI " tvg-logo="https://1.bp.blogspot.com/-BKfI-bOVnLU/YMauM95S37I/AAAAAAAAE28/EnMb8zR4NaoLcp75HLEGmfDZwkCfvMfUACPcBGAYYCw/s200/SBT.png " group-title="CANAIS - ABERTOS",SBT PI 
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
 
-#EXTINF:-1 tvg-id="SBT GO " tvg-name="SBT GO " tvg-logo="https://1.bp.blogspot.com/-BKfI-bOVnLU/YMauM95S37I/AAAAAAAAE28/EnMb8zR4NaoLcp75HLEGmfDZwkCfvMfUACPcBGAYYCw/s200/SBT.png " group-title="CANAIS ABERTOS",SBT GO - TV SERRA DOURADA
+#EXTINF:-1 tvg-id="SBT GO " tvg-name="SBT GO " tvg-logo="https://1.bp.blogspot.com/-BKfI-bOVnLU/YMauM95S37I/AAAAAAAAE28/EnMb8zR4NaoLcp75HLEGmfDZwkCfvMfUACPcBGAYYCw/s200/SBT.png " group-title="CANAIS - ABERTOS",SBT GO - TV SERRA DOURADA
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323_b1000000.m3u8
 
-#EXTINF:-1 tvg-id="TV BAND PA" tvg-name="TV BAND PA " tvg-logo="https://1.bp.blogspot.com/-8WMTK1YKO8M/YTDut9kuv0I/AAAAAAAAFQI/tPhnPo5AysQHiA5kFzTdvxD8wBfvgnLSQCLcBGAsYHQ/s200/TV%2BBAND.webp " group-title="CANAIS ABERTOS",TV BAND PA
+#EXTINF:-1 tvg-id="TV BAND PA" tvg-name="TV BAND PA " tvg-logo="https://1.bp.blogspot.com/-8WMTK1YKO8M/YTDut9kuv0I/AAAAAAAAFQI/tPhnPo5AysQHiA5kFzTdvxD8wBfvgnLSQCLcBGAsYHQ/s200/TV%2BBAND.webp " group-title="CANAIS - ABERTOS",TV BAND PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
 
-#EXTINF:-1 tvg-id="REDE TV  " tvg-name="REDE TV " tvg-logo="https://1.bp.blogspot.com/-aSq0jApe0IU/YTDxxBx63bI/AAAAAAAAFQc/78iRXqQZMNwADB3ubWz5cD6bBuWA4Ky2gCLcBGAsYHQ/s200/REDE%2BTV%2521.webp " group-title="CANAIS ABERTOS",REDE TV ES
+#EXTINF:-1 tvg-id="REDE TV  " tvg-name="REDE TV " tvg-logo="https://1.bp.blogspot.com/-aSq0jApe0IU/YTDxxBx63bI/AAAAAAAAFQc/78iRXqQZMNwADB3ubWz5cD6bBuWA4Ky2gCLcBGAsYHQ/s200/REDE%2BTV%2521.webp " group-title="CANAIS - ABERTOS",REDE TV ES
 https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
 
-#EXTINF:-1 tvg-id="REDE TV RS " tvg-name="REDE TV RS " tvg-logo="https://1.bp.blogspot.com/-kDR8AywYWQM/YRfx_wFMwSI/AAAAAAAAFGs/Jo9Uj_El5B8rVQ-JfGJCI2VN8WqSVUn9ACLcBGAsYHQ/s0/REDE%2BTV%2521.png " group-title="CANAIS ABERTOS",REDE TV RS 
+#EXTINF:-1 tvg-id="REDE TV RS " tvg-name="REDE TV RS " tvg-logo="https://1.bp.blogspot.com/-kDR8AywYWQM/YRfx_wFMwSI/AAAAAAAAFGs/Jo9Uj_El5B8rVQ-JfGJCI2VN8WqSVUn9ACLcBGAsYHQ/s0/REDE%2BTV%2521.png " group-title="CANAIS - ABERTOS",REDE TV RS 
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w18155526.m3u8
 
 #EXTINF:-1 tvg-id="RETRO CARTOON " tvg-name="RETRO CARTOON "  tvg-logo="https://1.bp.blogspot.com/-Tk_nDgzno00/YRfsL2aXRlI/AAAAAAAAFGU/d7a448ZFXb0I-HVIFa5OZFCVtry2hZ2ZwCLcBGAsYHQ/s0/RETR%25C3%2594%2BCARTOON.png " group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="RECORD NEWS " tvg-name="RECORD NEWS "  tvg-logo="https://1.bp.blogspot.com/-yvQ-qCcETsc/YTDyzBliSSI/AAAAAAAAFQw/tsaY7VTuYboP98S49dVfK2LYLkos0MH5QCLcBGAsYHQ/s200/RECORD%2BNEWS.webp" group-title="CANAIS ABERTOS",RECORD NEWS
+#EXTINF:-1 tvg-id="RECORD NEWS " tvg-name="RECORD NEWS "  tvg-logo="https://1.bp.blogspot.com/-yvQ-qCcETsc/YTDyzBliSSI/AAAAAAAAFQw/tsaY7VTuYboP98S49dVfK2LYLkos0MH5QCLcBGAsYHQ/s200/RECORD%2BNEWS.webp" group-title="CANAIS - ABERTOS",RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV NOVA GAZETA " tvg-name="TV NOVA GAZETA"  tvg-logo="https://1.bp.blogspot.com/-sWF10FnV4Sw/YA8SZOkSGxI/AAAAAAAAENI/KDTEg1biVP4YScw6tJ5h8oJaqX-7AYWCACLcBGAsYHQ/s0/NOVA%2BGAZETA%2BTV.png " group-title="CANAIS ABERTOS",TV NOVA GAZETA
-https://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANOS 80 " tvg-name="ANOS 80 " tvg-logo="https://www.radio80fm.com.br/wp-content/uploads/2020/07/logo-horizontal-504-120px.png " group-title="RÁDIOS",ANOS 80
 https://centova.euroti.com.br:20001/1/stream.mp3?1634570749489
@@ -77,42 +71,6 @@ https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1300968176.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORT" tvg-name="TNT SPORT " tvg-logo="https://1.bp.blogspot.com/-nuBjndFluZs/YTyftxb2pnI/AAAAAAAAPh0/pkQYMt5ta7cvO6lkCU11bOMqJZKpD-vEwCLcBGAsYHQ/s200/OIP%2B%252812%2529.jpg " group-title="ESPORTES",TNT SPORT
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-id="XXX BIG TITIS " tvg-name="XXX BIG TITIS " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canaladulto.png " group-title="CANAIS ADULTOS",XXX BIG TITIS
-http://live.redtraffic.xyz/bigtits.m3u8
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://bit.ly/2wUp28z
-
-#EXTINF:-1 tvg-id="XXX PORNSTAR " tvg-name="XXX PORNSTAR " tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",BLONDE
-http://cdn.adultiptv.net/blonde.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://cdn.videos.pornopizza.it/media/videos/5/8/3/b/d/583bda544d090.mp4?LHMTv
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS", Visit-X 
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS
-http://cdn.videos.pornopizza.it/media/videos/5/5/6/e/d/556edfc7a2f1a.mp4?LHMTv
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS
-http://cdn.videos.pornopizza.it/media/videos/5/8/3/b/d/583bd6df828bb.mp4?LHMTv
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-http://cdn.videos.pornopizza.it/media/videos/5/8/3/e/7/583e7da03ba63.mp4?LHMTv
-
-#EXTINF:-1 tvg-id="CANAIS ADULTOS" tvg-name="CANAIS ADULTOS" tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg" group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-https://cdn77-vid.xvideos-cdn.com/wY8ZH2yjWUzb7zFqnknUCw==,1635222689/videos/hls/28/80/4e/28804eafb74188d17849fe180e698752/hls.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg " group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-https://cdn.xvideoson.com/cdn/videos/mobile/447.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg " group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-https://static.loboclick.com/v/thor/thos01.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/02/3b/35/023b35bb64fb33294452bb454b4ed6b7.jpg " group-title="CANAIS ADULTOS",CANAIS ADULTOS 
-https://cdn.xvideoson.com/cdn/videos/mobile/4508.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hcP2XDNrzUdvy4kohGgNkjbSdqW.jpg" group-title="ANIMAÇÃO/INFANTIL",OS VILÕES DA DISNEY
 https://hyperion.feralhosting.com/seriesbm/filmes/Os.Viloes.da.Disney.2003.mp4
@@ -143,24 +101,6 @@ https://hyperion.feralhosting.com/seriesbm/filmes/A.Fuga.Das.Galinhas.2000.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg " group-title="ANIMAÇÃO/INFANTIL",SHEREK 3
 https://hyperion.feralhosting.com/seriesbm/filmes/Shrek.Terceiro.2007.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/The_SpongeBob_SquarePants_Movie_poster.jpg " group-title="ANIMAÇÃO/INFANTIL",BOB ESPONJA - O FILME
-http://91.149.224.178/movie/Jose264/386w7k84/26045.mp4?token=SRUMWUVaQV8SV1VRVAsHV1IFCQIAVQUHU1ZeBQEOAwAFBAAOAAsGAABGHRJBTBAEB1pnXVBEDwIAUQxRGBUXS1dFO1FSEFlHA1UFAgIAQE1EQ1FZUUQPAQBSD1YMDlUMABtGSF9WQV8SVQgEAAlATURSQEBRFFtRWj5cAUJeAV0QDUYaGhAMC28AVF1TVgZDXBUIFhhEXENGQwIKQVsOFBBVDUxEUxcAEl4TAQINV0NKFVtbQQhBQk9DAkZ2ZUAUEFIcTFNcEAxfChMKEFUSVUQbGl1HOUdVRRVKAVVaB0oQDUYIFB5BCFEcblNdVgwEBUNRW1oVFwoUUBpIFloNVltDC0ppQgoBEl5fRV5UHw==
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.627806d8264cc1546f3e6d2815b35a5a?rik=n2U9GQKJtSievQ&riu=http%3a%2f%2flogonoid.com%2fimages%2ffx-logo.png&ehk=POz6MElybIBNPdG%2fEk7e%2fUMZTBqqThi6HdCEg84hC3M%3d&risl=&pid=ImgRaw&r=0 " group-title="VARIEDADES",FX
-http://rec2.distv.net/micheline/micheline/229
-
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/mickey_mouse/mickey_mouse_PNG18.png" group-title="DESENHOS",A CASA DO MICKEY MOUSE
-http://cdn.bgp20.xyz/Jose264/386w7k84/140984
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/554/231/png-transparent-the-wheels-on-the-bus-school-bus-transport-bus-school-bus-mode-of-transport-cartoon-thumbnail.png " group-title="DESENHOS", A RODA DE ÔNIBUS
-http://cdn.bgp20.xyz/Jose264/386w7k84/62967
-
-#EXTINF:-1 tvg-logo="https://img.elo7.com.br/product/original/3A5542F/topo-bolo-bita-e-os-animais-crianca.jpg" group-title="DESENHOS",BITA E OS ANIMAIS
-http://cdn.bgp20.xyz/Jose264/386w7k84/83753
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ee6d8b04bc0a3a23246447531bdc209a?rik=mJOwzeOgry%2bcdg&pid=ImgRaw&r=0" group-title="DESENHOS", BOB ESPONJA 
-http://cdn.bgp20.xyz/Jose264/386w7k84/140950
 
 #EXTINF:-1 tvg-categoria="FILMES INFANTIL" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.uHe8WvlwxUotdeGn02sS9gHaLH?pid=ImgDet&rs=1" group-title="ANIMAÇÃO/INFANTIL",ALVIN E OS ESQUILOS: NA ESTRADA
 http://212.102.60.197/movie/GCE37Sqp6/factoryiptv/67461.mp4?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQBUAAJUTUAWElRFaFpTEg4aVlUFAQcWThZHWVUBRw5SAFADB1ZWUVBTHRVHWlMSDhpSXQEADg1AGBFVQBAARg1XD2tQABcLAAQTDRURGxJbVjwAV1VWWgYWCRIIRkkWCkUTFg4LFA4PTRNVXkdFUUBdQV4QCgMHWhYfElsLEFoXRBoWDkcjMEFNE1JPR1JeR1EMChACFVkSABEcGg0WaxFTEEBGAAAPBhMTDRUDFRwWVQIcbVtYWgxRUERRCwtHQQxBBRZJQw8MD1hDWEFoQF1cQV5cTVtYHw==
@@ -213,20 +153,11 @@ http://vd2121.vendedoraction.com/LANCAMENTOS21/53873.mp4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.2f2507806750c4a1132800378ecd08c0?rik=s6PsFKjDr4dyNw&pid=ImgRaw&r=0" group-title="FILMES",HARRY POTTER 5
 http://3serverswvn.vendedoraction.com/FANTASIA/7984.mp4
 
-#EXTINF:-1 tvg-logo="https://www.moztudo.com/wp-content/uploads/2021/10/exercito-de-ladroes-invasao-da-europa-2021-torrent-dublado-e-dual-audio-5-1-download-21493-poster-202x300.jpg" group-title="FILMES",EXÉRCITO DE LADRÕES :INVASÃO DA EUROPA 2021
-http://91.149.224.178/movie/Jose264/386w7k84/183704.mp4?token=SRUMWUVaQV8SAQBUB1lUVVIDXA0NAwxRUwIMUgNRUQ1XVAUJBwNbBgNGHRJBTBAEB1pnXVBEDwEOUg9UABtATUFSFmdfVkFfElcABAAIWkNKFUxdWQMXCgdXC1MAA1sJCgFIGkZbB0cKRgIFBBpOQwNPTFFGCFRcaQVdEl1UBxoIFUYUFF0NOlQBXFFcXEBbRAcaGBYPRkAUW1YRWFtOGlBeEEpXRgZHCkYDAAcKQE1EVFdBWhJHSRRbGiZmFU4aV08QXVhBCgpeRgsSX0hWQ0oVUUdrFFBDQhNdBVlSEBoIFVQaGhAOBEg7Ul9cVgcCEl5XWkdEDxIHQxRGWVgMUUZYFmdGWwdHCgpEXF5F
-
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.iU9KYZtT80KaiY8gnOSSOAHaDw?pid=ImgDet&rs=1" group-title="FILMES",VINGANÇA & CASTIGO 2021
 http://89.187.179.236/movie/GCE37Sqp6/factoryiptv/83568.mp4?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQ5QAQJdTUAWElRFaFpTEg4aVlUFAQcWThZHWVUBRw5SAFADAFBRVlRQHRVHWlMSDhpbUAQNDxZOFlZITAEXWgJaPFBREwgBBkMLFRUfFV9aZwcBX1lZUEAOEQAaSEddEEZBDloQDQ5PQ1NeQ0FWRFEaWUYADgcEQBgRU1cRC0ART0EOFiczQE9DVE9DVllDXVcNRggaWkRWFh8SURc6RgZFF0ZRBAwHEUMLFQcRGxJZWRs7UVdZWgdXR1lXChYWWRRSFhhHDA0NCEVYRWxHWVAaWQpHVFtJ
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.UKOfw15ilxRBIN1gCs--GwHaKx?pid=ImgDet&rs=1" group-title="FILMES",REFÉM DO JOGO
-http://91.149.224.178/movie/Jose264/386w7k84/2720.mp4?token=SRUMWUVaQV8SAFNVVAEBVwdUCAABVwFRA1FcBQdUA14BVVFeBlNSBgRGHRJBTBAEB1pnXVBEDwIBUwhIFkIRXUBoDVwUCEFWAVADAAoaTkMSXlVRFlwEBgVWDFAMD1cJHhUUUVIQWUcBVAEABBpOQwNPTFFGCFRcaQVdEl1UBxoIFUYUFF0NOlQBXFFcXEBbRAcaGBYPRkAUW1YRWFtOGlBeEEpXRgZHCkYCAQABQE1EVFdBWhJHSRRbGiZmFU4aV08QXVhBCgpeRgsSX0hWQ0oVUUdrFFBDQhNdBVlSEBoIFVQaGhAOBEg7Ul9cVgcCEl5XWkdEDxIHQxRGWVgMUUZYFmdGWwdHCgpEXF5F
 
 #EXTINF:-1 tvg-type"video" tvg-logo="https://podecomparar.com.br/sites/default/files/logo-sky-play-200px.png" group-title="CANAIS SKY PLAY",SKY PLAY 1
 http://angels.red/live/937701/450292/99933.m3u8
 
-#EXTINF:-1 tvg-type"video" tvg-logo="https://th.bing.com/th/id/R.c1d81ccd8eac1a8fb87f692e73ff6f50?rik=KWGeL7JKlvCd6Q&riu=http%3a%2f%2faescotilha.com.br%2fwp-content%2fuploads%2f2016%2f04%2fpolicia_24h_band.jpg&ehk=8GtkJyfagXo8Wl2d9x6y4iBb7sTUuDcL5uf2mahLiPM%3d&risl=&pid=ImgRaw&r=0" group-title="POLICIA 24H",POLICIA 24H
-http://vipeiptv.com:25461/brian123/brian321/925597
-
-#EXTINF:-1 tvg-type"video" tvg-logo="https://th.bing.com/th/id/R.c3faf3b3ffb6d42f69c77586f30b2e1e?rik=rmQSHuEgSStJTQ&pid=ImgRaw&r=0" group-title="Documentário",DISCOVERY CHANNEL
-http://rec2.distv.net/micheline/micheline/130
+#EXTINF:-1 tvg-logo=" " group-title="CANAIS - RECORDTV",RECORDTV BELEM
+http:///7sat.orgWORLEDLIST.m3u
