@@ -24,7 +24,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w696474322.m3u8
 #EXTINF:-1 tvg-id="BAND " tvg-name="BAND " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/band-tv.jpg " group-title="CANAIS - ABERTOS",BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w627099956.m3u8
 
-#EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg " group-title="CANAIS - ABERTOS",Record RJ
+#EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg " group-title="CANAIS - RECORDTV",Record RJ
 http://127.0.0.1:9219/playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="SBT " tvg-name="SBT " tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-14.jpg " group-title="CANAIS - ABERTOS",SBT
@@ -51,7 +51,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1
 #EXTINF:-1 tvg-id="RETRO CARTOON " tvg-name="RETRO CARTOON "  tvg-logo="https://1.bp.blogspot.com/-Tk_nDgzno00/YRfsL2aXRlI/AAAAAAAAFGU/d7a448ZFXb0I-HVIFa5OZFCVtry2hZ2ZwCLcBGAsYHQ/s0/RETR%25C3%2594%2BCARTOON.png " group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="RECORD NEWS " tvg-name="RECORD NEWS "  tvg-logo="https://1.bp.blogspot.com/-yvQ-qCcETsc/YTDyzBliSSI/AAAAAAAAFQw/tsaY7VTuYboP98S49dVfK2LYLkos0MH5QCLcBGAsYHQ/s200/RECORD%2BNEWS.webp" group-title="CANAIS - ABERTOS",RECORD NEWS
+#EXTINF:-1 tvg-id="RECORD NEWS " tvg-name="RECORD NEWS "  tvg-logo="https://1.bp.blogspot.com/-yvQ-qCcETsc/YTDyzBliSSI/AAAAAAAAFQw/tsaY7VTuYboP98S49dVfK2LYLkos0MH5QCLcBGAsYHQ/s200/RECORD%2BNEWS.webp" group-title="CANAIS - RECORDTV",RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANOS 80 " tvg-name="ANOS 80 " tvg-logo="https://www.radio80fm.com.br/wp-content/uploads/2020/07/logo-horizontal-504-120px.png " group-title="RÁDIOS",ANOS 80
@@ -159,5 +159,6 @@ http://89.187.179.236/movie/GCE37Sqp6/factoryiptv/83568.mp4?token=ShVfUkRYFgJBXQ
 #EXTINF:-1 tvg-type"video" tvg-logo="https://podecomparar.com.br/sites/default/files/logo-sky-play-200px.png" group-title="CANAIS SKY PLAY",SKY PLAY 1
 http://angels.red/live/937701/450292/99933.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="CANAIS - RECORDTV",RECORDTV BELEM
-http:///7sat.orgWORLEDLIST.m3u
+#EXTINF:-1 tvg-type"video" tvg-logo="https://th.bing.com/th/id/R.7018de8c350bf01dfd6af690485d2edc?rik=DvacBCIVw5sN0Q&riu=http%3a%2f%2f1.bp.blogspot.com%2f-PLUyzWdShUE%2fUiYhLdRaj9I%2fAAAAAAAAAy8%2fF0KCVehXL-I%2fs1600%2fcartaz_peq.jpg&ehk=RWIxa5xOhaauJC3ZHPuJOt3Rh2Hg0%2bTo22GocvYISyo%3d&risl=&pid=ImgRaw&r=0" group-title="FILMES",O MENINO E O MUNDO
+http:///COMEDIA/14269.mp4
+
