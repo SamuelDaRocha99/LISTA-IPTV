@@ -54,9 +54,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="RECORD NEWS " tvg-name="RECORD NEWS "  tvg-logo="https://1.bp.blogspot.com/-yvQ-qCcETsc/YTDyzBliSSI/AAAAAAAAFQw/tsaY7VTuYboP98S49dVfK2LYLkos0MH5QCLcBGAsYHQ/s200/RECORD%2BNEWS.webp" group-title="CANAIS - RECORDTV",RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANOS 80 " tvg-name="ANOS 80 " tvg-logo="https://www.radio80fm.com.br/wp-content/uploads/2020/07/logo-horizontal-504-120px.png " group-title="RÁDIOS",ANOS 80
-https://centova.euroti.com.br:20001/1/stream.mp3?1634570749489
-
 #EXTINF:-1 tvg-id="GERAÇÃO FUNK" tvg-name="GERAÇÃO FUNK" tvg-logo="https://img.radios.com.br/radio/lg/radio39899_1570735863.png " group-title="RÁDIOS",GERAÇÃO FUNK
 https://servidor.geracaoradios.com/radio/8040/stream
 
@@ -68,9 +65,6 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1852637545.m3u
 
 #EXTINF:-1 tvg-id="FILMES LANÇAMENTOS 2021" tvg-name="FILMES LANÇAMENTOS 2021" tvg-logo="https://1.bp.blogspot.com/-ffFLvSX5-2M/X-UTXXqLQXI/AAAAAAAAMjY/ylCXYZQ3NsUQxkb1DMeasDx3fSq3MobkACLcBGAsYHQ/w680/download%2B%252810%2529.jpg " group-title="FILMES AO VIVO",FILMES LANÇAMENTOS 2021
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1300968176.m3u8
-
-#EXTINF:-1 tvg-id="TNT SPORT" tvg-name="TNT SPORT " tvg-logo="https://1.bp.blogspot.com/-nuBjndFluZs/YTyftxb2pnI/AAAAAAAAPh0/pkQYMt5ta7cvO6lkCU11bOMqJZKpD-vEwCLcBGAsYHQ/s200/OIP%2B%252812%2529.jpg " group-title="ESPORTES",TNT SPORT
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hcP2XDNrzUdvy4kohGgNkjbSdqW.jpg" group-title="ANIMAÇÃO/INFANTIL",OS VILÕES DA DISNEY
 https://hyperion.feralhosting.com/seriesbm/filmes/Os.Viloes.da.Disney.2003.mp4
@@ -108,12 +102,6 @@ http://212.102.60.197/movie/GCE37Sqp6/factoryiptv/67461.mp4?token=ShVfUkRYFgJBXQ
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.zI5dNdQmYOg_N1j1suZJ4AHaJh?pid=ImgDet&rs=1" group-title="ANIMAÇÃO/INFANTIL",AS FANTASIAS DE NICOLAS
 http://212.102.60.200/movie/GCE37Sqp6/factoryiptv/79492.mp4?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQFaAA1XTUAWElRFaFpTEg4aVlUFAQcWThZHWVUBRw5SAFADB1ZWVVZSHRVHWlMSDhpSXQAPDgdAGBFVQBAARg1XD2tQABcLAAQTDRURGxJbVjwAV1VWWgYWCRIIRkkWCkUTFg4LFA4PTRNVXkdFUUBdQV4QCwUAVBYfElsLEFoXRBoWDkcjMEFNE1JPR1JeR1EMChACFVkSABEcGg0WaxFTEEBGAAAPBhMTDRUDFRwWVQIcbVtYWgxRUERRCwtHQQxBBRZJQw8MD1hDWEFoQF1cQV5cTVtYHw==
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.25206337c9bddd0acfd3b288dda2728c?rik=p%2ft30ARVHJDT1w&pid=ImgRaw&r=0" group-title="ANIMAÇÃO/INFANTIL",A BAILARINA
-http://tv.minhalista.me/movie/GCE37Sqp6/factoryiptv/79546.mp4
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d5afada322b83a7b60c500d801e9e947?rik=3J23pD9E%2fI39Ug&pid=ImgRaw&r=0" group-title="ANIMAÇÃO/INFANTIL",CASA MONSTRO
-http://tv.minhalista.me/movie/GCE37Sqp6/factoryiptv/76325.mp4
-
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.59d0a3645fb621ea24117e0bd7287b33?rik=OgokR1qon%2bShWA&pid=ImgRaw&r=0" group-title="CANAIS PLUTO TV",PLUTO TV - NICK CLASSICO
 http://lb.kstream.org/aovivo/HD_PLUTO_NICK_CLASSICO/video.m3u8?token=3e2373cda2814fcc9589037ffabaa415
 
@@ -138,14 +126,8 @@ http://3serverswvn.vendedoraction.com/COMEDIA/26401.mp4
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.5xTX6vFOz6IEICAFBf8eSwHaHa?pid=ImgDet&rs=1" group-title="ANIMAÇÃO/INFANTIL",SCOOBY DOO 4 - E A MALDIÇÃO DO MONSTRO DO LAGO
 http://3serverswvn.vendedoraction.com/COMEDIA/26402.mp4
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ffbb41e0bc6b67977212dce12fc39982?rik=OadfuAX95JYqGQ&pid=ImgRaw&r=0" group-title="VARIEDADES",TNT SERIES
-http://vipeiptv.com:25461/brian123/brian321/856169
-
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.90cb95a1d8299279ed0e4b05af81b60a?rik=mAYLyxf%2bfhszlw&riu=http%3a%2f%2fwww.cinecomedies.com%2fwp-content%2fuploads%2f2014%2f01%2fNews-Paramount-Channel-001.jpg&ehk=w82BBuG%2bUnoe0KWKvaLveUU0rXZ6VSSaF5nFM9EdrNU%3d&risl=&pid=ImgRaw&r=0" group-title="VARIEDADES",PARAMOUNT CHANNEL
 http://main.cteam.me/pablo1/pablo123/856746
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0697f6225758572fece07f7a655ae590?rik=aADtyi2Ffz2lTw&pid=ImgRaw&r=0" group-title="VARIEDADES",TLC DISCOVERY
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79989?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QhZqaz4iPaLybrehxDospgHaK4?pid=ImgDet&rs=1" group-title="ANIMAÇÃO/INFANTIL",PATRULHA CANINA : O FILME (2021)
 http://vd2121.vendedoraction.com/LANCAMENTOS21/53873.mp4
@@ -159,8 +141,6 @@ http://89.187.179.236/movie/GCE37Sqp6/factoryiptv/83568.mp4?token=ShVfUkRYFgJBXQ
 #EXTINF:-1 tvg-type"video" tvg-logo="https://podecomparar.com.br/sites/default/files/logo-sky-play-200px.png" group-title="CANAIS SKY PLAY",SKY PLAY 1
 http://angels.red/live/937701/450292/99933.m3u8
 
-#EXTINF:-1 tvg-type"video" tvg-logo="https://th.bing.com/th/id/R.0227cec2fa163c95ea9c6c574ce001aa?rik=JYUB08Li4Zs4kg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-jvGdxt9ExNc%2fUCJhaxEq3VI%2fAAAAAAAAgYs%2fXEWxecRlouA%2fs1600%2fO-Menino-Do-Pijama-Listrado.jpg&ehk=kyFdNuD7601Ml2p2V3MylUz4vAV8NsW5ZDIEC5XLTzI%3d&risl=&pid=ImgRaw&r=0" group-title="FILMES",O MENINO DO PIJAMA LISTRADO ( FILME SUPER RECOMENDADO )
-http://angels.red/movie/937701/450292/71024.mp4
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.Vfn76yeyFWyHF7r3jYk70wHaK0?pid=ImgDet&rs=1" group-title="FILMES",FAROESTE CABLOCO
+http://127.0.0.1:51514/tv.minhalista.me/movie/GCE37Sqp6/factoryiptv/82222.mp4
 
-#EXTINF:-1 tvg-type"video" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.ZcAO1f9oUoPSZxYKTs_GsQHaKh?pid=ImgDet&rs=1" group-title="FILMES",NO CORREDOR DA MORTE
-http://127.0.0.1:56404/angels.red:80/movie/937701/450292/81832.mp4
