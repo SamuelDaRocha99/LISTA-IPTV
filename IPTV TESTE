@@ -144,3 +144,11 @@ http://angels.red/live/937701/450292/99933.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.riedZsulPUtjG5TdhDnPwwAAAA?pid=ImgDet&rs=1" group-title="CANAIS TELECINE",TELECINE ACTION SD
 http://vipeiptv.com:25461/brian123/brian321/855992
 
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.pvyT5moZGXdQBCRM7ynE0wAAAA?pid=ImgDet&rs=1" group-title="CANAIS TELECINE",TELECINE CULT SD
+http://vipeiptv.com:25461/brian123/brian321/855998
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.pvyT5moZGXdQBCRM7ynE0wAAAA?pid=ImgDet&rs=1" group-title="CANAIS TELECINE",TELECINE FUN SD
+http://vipeiptv.com:25461/brian123/brian321/856004
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.oEk8XwWQyNesLO_HNjMpTwAAAA?pid=ImgDet&rs=1" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
+http://127.0.0.1:52698/output.m3u8
